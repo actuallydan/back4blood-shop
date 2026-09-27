@@ -1,0 +1,94 @@
+# Build and sign catalog.json, the add-on list b4bcoop's Browse tab downloads from
+# https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/catalog.json (+ catalog.json.sig).
+# 1. scripts/fetch-paks.py downloads each entries.json add-on from this repo's release <id>-v<version> (<id>.pak).
+# 2. b4b-coop's tools/shop-catalog.py (pinned commit below) computes size, SHA-256, content id, class and what each
+#    pak adds/replaces, and refuses unknown licenses and bad entries (the run fails, nothing is published).
+# 3. The list is signed (ed25519) with the secret SHOP_SIGNING_KEY, checked against shop-signing.pub.pem (the public
+#    key built into b4bcoop), and committed when the add-on list changed (by hand: always).
+name: catalog
+
+on:
+  push:
+    branches: [main]
+    paths: [entries.json, "thumbs/**", scripts/fetch-paks.py, shop-signing.pub.pem, .github/workflows/catalog.yml]
+  release:
+    types: [published, edited, deleted]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+env:
+  B4B_COOP_REF: 5d3a6fc569c7d673a162122750043e883ed62ddf   # actuallydan/b4b-coop: tools/shop-catalog.py + modkit/
+
+jobs:
+  catalog:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write   # commit catalog.json + catalog.json.sig
+    steps:
+      - name: Check out the shop
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: main
+
+      - name: Check out the catalog tool (b4b-coop, pinned)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          repository: actuallydan/b4b-coop
+          ref: ${{ env.B4B_COOP_REF }}
+          path: .b4b-coop
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            tools/shop-catalog.py
+            tools/sign-release.sh
+            modkit/
+
+      - name: Download the add-ons from this repo's releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/fetch-paks.py entries.json paks
+
+      - name: Build the list
+        run: |
+          set -euo pipefail
+          # shop-catalog.py reads paks/<id>.pak and thumbs/<thumb> next to the manifest
+          python3 .b4b-coop/tools/shop-catalog.py build entries.json -o "$RUNNER_TEMP/catalog.json"
+          if [[ -f catalog.json && -f catalog.json.sig && "${{ github.event_name }}" != workflow_dispatch ]] &&
+             cmp -s <(jq -S .addons catalog.json) <(jq -S .addons "$RUNNER_TEMP/catalog.json"); then
+            echo "The add-on list is unchanged; nothing to publish."
+            echo "CHANGED=0" >> "$GITHUB_ENV"
+          else
+            cp "$RUNNER_TEMP/catalog.json" catalog.json
+            echo "CHANGED=1" >> "$GITHUB_ENV"
+          fi
+
+      - name: Sign the list with the shop key
+        if: env.CHANGED == '1'
+        env:
+          SHOP_SIGNING_KEY: ${{ secrets.SHOP_SIGNING_KEY }}
+        run: |
+          set -euo pipefail
+          [[ -n "$SHOP_SIGNING_KEY" ]] || { echo "::error::secret SHOP_SIGNING_KEY is not set"; exit 1; }
+          key="$RUNNER_TEMP/shop-signing.key"
+          (umask 077; printf '%s\n' "$SHOP_SIGNING_KEY" > "$key")
+          python3 .b4b-coop/tools/shop-catalog.py sign "$key" catalog.json
+          rm -f "$key"
+          # a wrong secret can't publish: the signature must match the committed public key (= the one in b4bcoop)
+          python3 .b4b-coop/tools/shop-catalog.py verify shop-signing.pub.pem catalog.json
+
+      - name: Publish catalog.json + catalog.json.sig
+        if: env.CHANGED == '1'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json catalog.json.sig
+          if git diff --cached --quiet; then echo "Nothing to commit."; exit 0; fi
+          git commit -m "Catalog: $(jq '.addons | length' catalog.json) add-on(s), $(jq -r .updated catalog.json)"
+          git push origin HEAD:main
