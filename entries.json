@@ -4,763 +4,890 @@
    "id": "2b-any",
    "version": "1",
    "license": "Private use",
-   "name": "2B (any cleaner)"
+   "name": "2B (any cleaner)",
+   "thumb": "2b-any.jpg"
   },
   {
    "id": "aang",
    "version": "1",
    "license": "Private use",
-   "name": "Aang"
+   "name": "Aang",
+   "thumb": "aang.jpg"
   },
   {
    "id": "adamsmasher",
    "version": "1",
    "license": "Private use",
-   "name": "Adam Smasher"
+   "name": "Adam Smasher",
+   "thumb": "adamsmasher.jpg"
   },
   {
    "id": "agony",
    "version": "1",
    "license": "Private use",
-   "name": "Agony"
+   "name": "Agony",
+   "thumb": "agony.jpg"
   },
   {
    "id": "ahsokatano",
    "version": "1",
    "license": "Private use",
-   "name": "Ahsoka Tano"
+   "name": "Ahsoka Tano",
+   "thumb": "ahsokatano.jpg"
   },
   {
    "id": "alanwake",
    "version": "1",
    "license": "Private use",
-   "name": "Alan Wake"
+   "name": "Alan Wake",
+   "thumb": "alanwake.jpg"
   },
   {
    "id": "anakinskywalker",
    "version": "1",
    "license": "Private use",
-   "name": "Anakin Skywalker"
+   "name": "Anakin Skywalker",
+   "thumb": "anakinskywalker.jpg"
   },
   {
    "id": "apprenticerey",
    "version": "1",
    "license": "Private use",
-   "name": "Apprentice Rey"
+   "name": "Apprentice Rey",
+   "thumb": "apprenticerey.jpg"
   },
   {
    "id": "aquaman",
    "version": "1",
    "license": "Private use",
-   "name": "Aquaman"
+   "name": "Aquaman",
+   "thumb": "aquaman.jpg"
   },
   {
    "id": "arcanevi",
    "version": "1",
    "license": "Private use",
-   "name": "Arcane Vi"
+   "name": "Arcane Vi",
+   "thumb": "arcanevi.jpg"
   },
   {
    "id": "arianagrande",
    "version": "1",
    "license": "Private use",
-   "name": "Ariana Grande"
+   "name": "Ariana Grande",
+   "thumb": "arianagrande.jpg"
   },
   {
    "id": "ash-williams-any",
    "version": "1",
    "license": "Private use",
-   "name": "Ash Williams (any cleaner)"
+   "name": "Ash Williams (any cleaner)",
+   "thumb": "ash-williams-any.jpg"
   },
   {
    "id": "atomeve",
    "version": "1",
    "license": "Private use",
-   "name": "Atom Eve"
+   "name": "Atom Eve",
+   "thumb": "atomeve.jpg"
   },
   {
    "id": "batman-any",
    "version": "1",
    "license": "Private use",
-   "name": "Batman (any cleaner)"
+   "name": "Batman (any cleaner)",
+   "thumb": "batman-any.jpg"
   },
   {
    "id": "beckylynch",
    "version": "1",
    "license": "Private use",
-   "name": "Becky Lynch"
+   "name": "Becky Lynch",
+   "thumb": "beckylynch.jpg"
   },
   {
    "id": "bill",
    "version": "1",
    "license": "Private use",
-   "name": "Bill"
+   "name": "Bill",
+   "thumb": "bill.jpg"
   },
   {
    "id": "blanka",
    "version": "1",
    "license": "Private use",
-   "name": "Blanka"
+   "name": "Blanka",
+   "thumb": "blanka.jpg"
   },
   {
    "id": "brunomars",
    "version": "1",
    "license": "Private use",
-   "name": "Bruno Mars"
+   "name": "Bruno Mars",
+   "thumb": "brunomars.jpg"
   },
   {
    "id": "captainamerica",
    "version": "1",
    "license": "Private use",
-   "name": "Captain America"
+   "name": "Captain America",
+   "thumb": "captainamerica.jpg"
   },
   {
    "id": "carnage",
    "version": "1",
    "license": "Private use",
-   "name": "Carnage"
+   "name": "Carnage",
+   "thumb": "carnage.jpg"
   },
   {
    "id": "charlotte",
    "version": "1",
    "license": "Private use",
-   "name": "Charlotte"
+   "name": "Charlotte",
+   "thumb": "charlotte.jpg"
   },
   {
    "id": "chief2",
    "version": "1",
    "license": "Private use",
-   "name": "Master Chief Infinite"
+   "name": "Master Chief Infinite",
+   "thumb": "chief2.jpg"
   },
   {
    "id": "chrisredfield",
    "version": "1",
    "license": "Private use",
-   "name": "Chris Redfield"
+   "name": "Chris Redfield",
+   "thumb": "chrisredfield.jpg"
   },
   {
    "id": "chunli",
    "version": "1",
    "license": "Private use",
-   "name": "Chun-Li"
+   "name": "Chun-Li",
+   "thumb": "chunli.jpg"
   },
   {
    "id": "ciri",
    "version": "1",
    "license": "Private use",
-   "name": "Ciri"
+   "name": "Ciri",
+   "thumb": "ciri.jpg"
   },
   {
    "id": "claireredfield",
    "version": "1",
    "license": "Private use",
-   "name": "Claire Redfield"
+   "name": "Claire Redfield",
+   "thumb": "claireredfield.jpg"
   },
   {
    "id": "coach",
    "version": "1",
    "license": "Private use",
-   "name": "Coach"
+   "name": "Coach",
+   "thumb": "coach.jpg"
   },
   {
    "id": "darthvader",
    "version": "1",
    "license": "Private use",
-   "name": "Darth Vader"
+   "name": "Darth Vader",
+   "thumb": "darthvader.jpg"
   },
   {
    "id": "daryldixon",
    "version": "1",
    "license": "Private use",
-   "name": "Daryl Dixon"
+   "name": "Daryl Dixon",
+   "thumb": "daryldixon.jpg"
   },
   {
    "id": "davidbeckham",
    "version": "1",
    "license": "Private use",
-   "name": "David Beckham"
+   "name": "David Beckham",
+   "thumb": "davidbeckham.jpg"
   },
   {
    "id": "deadmau5",
    "version": "1",
    "license": "Private use",
-   "name": "deadmau5"
+   "name": "deadmau5",
+   "thumb": "deadmau5.jpg"
   },
   {
    "id": "dojacat",
    "version": "1",
    "license": "Private use",
-   "name": "Doja Cat"
+   "name": "Doja Cat",
+   "thumb": "dojacat.jpg"
   },
   {
    "id": "ellenripley",
    "version": "1",
    "license": "Private use",
-   "name": "Ellen Ripley"
+   "name": "Ellen Ripley",
+   "thumb": "ellenripley.jpg"
   },
   {
    "id": "ellis",
    "version": "1",
    "license": "Private use",
-   "name": "Ellis"
+   "name": "Ellis",
+   "thumb": "ellis.jpg"
   },
   {
    "id": "fiona-any",
    "version": "1",
    "license": "Private use",
-   "name": "Fiona (any cleaner)"
+   "name": "Fiona (any cleaner)",
+   "thumb": "fiona-any.jpg"
   },
   {
    "id": "fn501sttrooper",
    "version": "1",
    "license": "Private use",
-   "name": "501st Trooper"
+   "name": "501st Trooper",
+   "thumb": "fn501sttrooper.jpg"
   },
   {
    "id": "francis",
    "version": "1",
    "license": "Private use",
-   "name": "Francis"
+   "name": "Francis",
+   "thumb": "francis.jpg"
   },
   {
    "id": "frank-west-any",
    "version": "1",
    "license": "Private use",
-   "name": "Frank West (any cleaner)"
+   "name": "Frank West (any cleaner)",
+   "thumb": "frank-west-any.jpg"
   },
   {
    "id": "frieza",
    "version": "1",
    "license": "Private use",
-   "name": "Frieza"
+   "name": "Frieza",
+   "thumb": "frieza.jpg"
   },
   {
    "id": "gamora",
    "version": "1",
    "license": "Private use",
-   "name": "Gamora"
+   "name": "Gamora",
+   "thumb": "gamora.jpg"
   },
   {
    "id": "geraltofrivia",
    "version": "1",
    "license": "Private use",
-   "name": "Geralt of Rivia"
+   "name": "Geralt of Rivia",
+   "thumb": "geraltofrivia.jpg"
   },
   {
    "id": "goldenmira",
    "version": "1",
    "license": "Private use",
-   "name": "Golden Mira"
+   "name": "Golden Mira",
+   "thumb": "goldenmira.jpg"
   },
   {
    "id": "goldenrumi",
    "version": "1",
    "license": "Private use",
-   "name": "Golden Rumi"
+   "name": "Golden Rumi",
+   "thumb": "goldenrumi.jpg"
   },
   {
    "id": "goldenzoey",
    "version": "1",
    "license": "Private use",
-   "name": "Golden Zoey"
+   "name": "Golden Zoey",
+   "thumb": "goldenzoey.jpg"
   },
   {
    "id": "grace",
    "version": "1",
    "license": "Private use",
-   "name": "Grace Ashcroft"
+   "name": "Grace Ashcroft",
+   "thumb": "grace.jpg"
   },
   {
    "id": "graceashcroft",
    "version": "1",
    "license": "Private use",
-   "name": "Grace Ashcroft"
+   "name": "Grace Ashcroft",
+   "thumb": "graceashcroft.jpg"
   },
   {
    "id": "greenrootsbillie",
    "version": "1",
    "license": "Private use",
-   "name": "Green Roots Billie"
+   "name": "Green Roots Billie",
+   "thumb": "greenrootsbillie.jpg"
   },
   {
    "id": "guile",
    "version": "1",
    "license": "Private use",
-   "name": "Guile"
+   "name": "Guile",
+   "thumb": "guile.jpg"
   },
   {
    "id": "haze",
    "version": "1",
    "license": "Private use",
-   "name": "Haze"
+   "name": "Haze",
+   "thumb": "haze.jpg"
   },
   {
    "id": "heman",
    "version": "1",
    "license": "Private use",
-   "name": "He-Man"
+   "name": "He-Man",
+   "thumb": "heman.jpg"
   },
   {
    "id": "icespice",
    "version": "1",
    "license": "Private use",
-   "name": "Ice Spice"
+   "name": "Ice Spice",
+   "thumb": "icespice.jpg"
   },
   {
    "id": "iconickimkardashian",
    "version": "1",
    "license": "Private use",
-   "name": "Iconic Kim Kardashian"
+   "name": "Iconic Kim Kardashian",
+   "thumb": "iconickimkardashian.jpg"
   },
   {
    "id": "ironman",
    "version": "1",
    "license": "Private use",
-   "name": "Iron Man"
+   "name": "Iron Man",
+   "thumb": "ironman.jpg"
   },
   {
    "id": "isaacclarke",
    "version": "1",
    "license": "Private use",
-   "name": "Isaac Clarke"
+   "name": "Isaac Clarke",
+   "thumb": "isaacclarke.jpg"
   },
   {
    "id": "jameshetfield",
    "version": "1",
    "license": "Private use",
-   "name": "James Hetfield"
+   "name": "James Hetfield",
+   "thumb": "jameshetfield.jpg"
   },
   {
    "id": "johncena",
    "version": "1",
    "license": "Private use",
-   "name": "John Cena"
+   "name": "John Cena",
+   "thumb": "johncena.jpg"
   },
   {
    "id": "johnwick",
    "version": "1",
    "license": "Private use",
-   "name": "John Wick"
+   "name": "John Wick",
+   "thumb": "johnwick.jpg"
   },
   {
    "id": "kirkhammett",
    "version": "1",
    "license": "Private use",
-   "name": "Kirk Hammett"
+   "name": "Kirk Hammett",
+   "thumb": "kirkhammett.jpg"
   },
   {
    "id": "korra",
    "version": "1",
    "license": "Private use",
-   "name": "Korra"
+   "name": "Korra",
+   "thumb": "korra.jpg"
   },
   {
    "id": "kyloren",
    "version": "1",
    "license": "Private use",
-   "name": "Kylo Ren"
+   "name": "Kylo Ren",
+   "thumb": "kyloren.jpg"
   },
   {
    "id": "lara-croft-any",
    "version": "1",
    "license": "Private use",
-   "name": "Lara Croft (any cleaner)"
+   "name": "Lara Croft (any cleaner)",
+   "thumb": "lara-croft-any.jpg"
   },
   {
    "id": "laracroft",
    "version": "1",
    "license": "Private use",
-   "name": "Lara Croft"
+   "name": "Lara Croft",
+   "thumb": "laracroft.jpg"
   },
   {
    "id": "laufey",
    "version": "1",
    "license": "Private use",
-   "name": "Laufey"
+   "name": "Laufey",
+   "thumb": "laufey.jpg"
   },
   {
    "id": "lbc93dogg",
    "version": "1",
    "license": "Private use",
-   "name": "LBC '93 Dogg"
+   "name": "LBC '93 Dogg",
+   "thumb": "lbc93dogg.jpg"
   },
   {
    "id": "leon",
    "version": "1",
    "license": "Private use",
-   "name": "Leon S. Kennedy"
+   "name": "Leon S. Kennedy",
+   "thumb": "leon.jpg"
   },
   {
    "id": "leonardo",
    "version": "1",
    "license": "Private use",
-   "name": "Leonardo"
+   "name": "Leonardo",
+   "thumb": "leonardo.jpg"
   },
   {
    "id": "louis",
    "version": "1",
    "license": "Private use",
-   "name": "Louis"
+   "name": "Louis",
+   "thumb": "louis.jpg"
   },
   {
    "id": "lovergirloliviarodrigo",
    "version": "1",
    "license": "Private use",
-   "name": "Lover Girl Olivia Rodrigo"
+   "name": "Lover Girl Olivia Rodrigo",
+   "thumb": "lovergirloliviarodrigo.jpg"
   },
   {
    "id": "macewindu",
    "version": "1",
    "license": "Private use",
-   "name": "Mace Windu"
+   "name": "Mace Windu",
+   "thumb": "macewindu.jpg"
   },
   {
    "id": "mandalorianwarrior",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior"
+   "name": "Mandalorian Warrior",
+   "thumb": "mandalorianwarrior.jpg"
   },
   {
    "id": "mandalorianwarriorhonor",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Honor)"
+   "name": "Mandalorian Warrior (Honor)",
+   "thumb": "mandalorianwarriorhonor.jpg"
   },
   {
    "id": "mandalorianwarriorhonorgreen",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Honor Green)"
+   "name": "Mandalorian Warrior (Honor Green)",
+   "thumb": "mandalorianwarriorhonorgreen.jpg"
   },
   {
    "id": "mandalorianwarriorhonoryellow",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Honor Yellow)"
+   "name": "Mandalorian Warrior (Honor Yellow)",
+   "thumb": "mandalorianwarriorhonoryellow.jpg"
   },
   {
    "id": "mandalorianwarriorloyalty",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Loyalty)"
+   "name": "Mandalorian Warrior (Loyalty)",
+   "thumb": "mandalorianwarriorloyalty.jpg"
   },
   {
    "id": "mandalorianwarriorloyaltyblue",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Loyalty Blue)"
+   "name": "Mandalorian Warrior (Loyalty Blue)",
+   "thumb": "mandalorianwarriorloyaltyblue.jpg"
   },
   {
    "id": "mandalorianwarriorloyaltygold",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian Warrior (Loyalty Gold)"
+   "name": "Mandalorian Warrior (Loyalty Gold)",
+   "thumb": "mandalorianwarriorloyaltygold.jpg"
   },
   {
    "id": "mando",
    "version": "1",
    "license": "Private use",
-   "name": "Mandalorian"
+   "name": "Mandalorian",
+   "thumb": "mando.jpg"
   },
   {
    "id": "marcusfenix",
    "version": "1",
    "license": "Private use",
-   "name": "Marcus Fenix"
+   "name": "Marcus Fenix",
+   "thumb": "marcusfenix.jpg"
   },
   {
    "id": "mariahcarey",
    "version": "1",
    "license": "Private use",
-   "name": "Mariah Carey"
+   "name": "Mariah Carey",
+   "thumb": "mariahcarey.jpg"
   },
   {
    "id": "marigold",
    "version": "1",
    "license": "Private use",
-   "name": "Marigold"
+   "name": "Marigold",
+   "thumb": "marigold.jpg"
   },
   {
    "id": "maryjanewatson",
    "version": "1",
    "license": "Private use",
-   "name": "Mary Jane Watson"
+   "name": "Mary Jane Watson",
+   "thumb": "maryjanewatson.jpg"
   },
   {
    "id": "messi",
    "version": "1",
    "license": "Private use",
-   "name": "Messi"
+   "name": "Messi",
+   "thumb": "messi.jpg"
   },
   {
    "id": "motherofthornsdoja",
    "version": "1",
    "license": "Private use",
-   "name": "Mother of Thorns Doja"
+   "name": "Mother of Thorns Doja",
+   "thumb": "motherofthornsdoja.jpg"
   },
   {
    "id": "mrsincredible",
    "version": "1",
    "license": "Private use",
-   "name": "Mrs. Incredible"
+   "name": "Mrs. Incredible",
+   "thumb": "mrsincredible.jpg"
   },
   {
    "id": "nathandrake",
    "version": "1",
    "license": "Private use",
-   "name": "Nathan Drake"
+   "name": "Nathan Drake",
+   "thumb": "nathandrake.jpg"
   },
   {
    "id": "nick",
    "version": "1",
    "license": "Private use",
-   "name": "Nick"
+   "name": "Nick",
+   "thumb": "nick.jpg"
   },
   {
    "id": "psylocke",
    "version": "1",
    "license": "Private use",
-   "name": "Psylocke"
+   "name": "Psylocke",
+   "thumb": "psylocke.jpg"
   },
   {
    "id": "raiden",
    "version": "1",
    "license": "Private use",
-   "name": "Raiden"
+   "name": "Raiden",
+   "thumb": "raiden.jpg"
   },
   {
    "id": "rapprincessicespice",
    "version": "1",
    "license": "Private use",
-   "name": "Rap Princess Ice Spice"
+   "name": "Rap Princess Ice Spice",
+   "thumb": "rapprincessicespice.jpg"
   },
   {
    "id": "redwayruby",
    "version": "1",
    "license": "Private use",
-   "name": "Redway Ruby"
+   "name": "Redway Ruby",
+   "thumb": "redwayruby.jpg"
   },
   {
    "id": "rey",
    "version": "1",
    "license": "Private use",
-   "name": "Rey"
+   "name": "Rey",
+   "thumb": "rey.jpg"
   },
   {
    "id": "rickgrimes",
    "version": "1",
    "license": "Private use",
-   "name": "Rick Grimes"
+   "name": "Rick Grimes",
+   "thumb": "rickgrimes.jpg"
   },
   {
    "id": "roan",
    "version": "1",
    "license": "Private use",
-   "name": "Roan of Arc"
+   "name": "Roan of Arc",
+   "thumb": "roan.jpg"
   },
   {
    "id": "rochelle",
    "version": "1",
    "license": "Private use",
-   "name": "Rochelle"
+   "name": "Rochelle",
+   "thumb": "rochelle.jpg"
   },
   {
    "id": "rogue",
    "version": "1",
    "license": "Private use",
-   "name": "Rogue"
+   "name": "Rogue",
+   "thumb": "rogue.jpg"
   },
   {
    "id": "rumi",
    "version": "1",
    "license": "Private use",
-   "name": "Rumi"
+   "name": "Rumi",
+   "thumb": "rumi.jpg"
   },
   {
    "id": "ryu",
    "version": "1",
    "license": "Private use",
-   "name": "Ryu"
+   "name": "Ryu",
+   "thumb": "ryu.jpg"
   },
   {
    "id": "sabrinacarpenter",
    "version": "1",
    "license": "Private use",
-   "name": "Sabrina Carpenter"
+   "name": "Sabrina Carpenter",
+   "thumb": "sabrinacarpenter.jpg"
   },
   {
    "id": "sakura",
    "version": "1",
    "license": "Private use",
-   "name": "Sakura"
+   "name": "Sakura",
+   "thumb": "sakura.jpg"
   },
   {
    "id": "santabrina",
    "version": "1",
    "license": "Private use",
-   "name": "Santa 'Brina"
+   "name": "Santa 'Brina",
+   "thumb": "santabrina.jpg"
   },
   {
    "id": "santasuitmariah",
    "version": "1",
    "license": "Private use",
-   "name": "Santa Suit Mariah"
+   "name": "Santa Suit Mariah",
+   "thumb": "santasuitmariah.jpg"
   },
   {
    "id": "scifi",
    "version": "1",
    "license": "Private use",
-   "name": "Sci-fi Black"
+   "name": "Sci-fi Black",
+   "thumb": "scifi.jpg"
   },
   {
    "id": "scorpionmk3",
    "version": "1",
    "license": "Private use",
-   "name": "Scorpion (MK3)"
+   "name": "Scorpion (MK3)",
+   "thumb": "scorpionmk3.jpg"
   },
   {
    "id": "shuri",
    "version": "1",
    "license": "Private use",
-   "name": "Shuri"
+   "name": "Shuri",
+   "thumb": "shuri.jpg"
   },
   {
    "id": "snakeeyes",
    "version": "1",
    "license": "Private use",
-   "name": "Snake Eyes"
+   "name": "Snake Eyes",
+   "thumb": "snakeeyes.jpg"
   },
   {
    "id": "sofia",
    "version": "1",
    "license": "Private use",
-   "name": "Sofia"
+   "name": "Sofia",
+   "thumb": "sofia.jpg"
   },
   {
    "id": "solidsnake",
    "version": "1",
    "license": "Private use",
-   "name": "Solid Snake"
+   "name": "Solid Snake",
+   "thumb": "solidsnake.jpg"
   },
   {
    "id": "souroliviarodrigo",
    "version": "1",
    "license": "Private use",
-   "name": "SOUR Olivia Rodrigo"
+   "name": "SOUR Olivia Rodrigo",
+   "thumb": "souroliviarodrigo.jpg"
   },
   {
    "id": "spacefarerarianagrande",
    "version": "1",
    "license": "Private use",
-   "name": "Spacefarer Ariana Grande"
+   "name": "Spacefarer Ariana Grande",
+   "thumb": "spacefarerarianagrande.jpg"
   },
   {
    "id": "spidergwen",
    "version": "1",
    "license": "Private use",
-   "name": "Spider-Gwen"
+   "name": "Spider-Gwen",
+   "thumb": "spidergwen.jpg"
   },
   {
    "id": "spidermanmilesmorales",
    "version": "1",
    "license": "Private use",
-   "name": "Spider-Man (Miles Morales)"
+   "name": "Spider-Man (Miles Morales)",
+   "thumb": "spidermanmilesmorales.jpg"
   },
   {
    "id": "spidermannoir",
    "version": "1",
    "license": "Private use",
-   "name": "Spider-Man Noir"
+   "name": "Spider-Man Noir",
+   "thumb": "spidermannoir.jpg"
   },
   {
    "id": "spidey",
    "version": "1",
    "license": "Private use",
-   "name": "Spider-Man"
+   "name": "Spider-Man",
+   "thumb": "spidey.jpg"
   },
   {
    "id": "stormtroopersamurai",
    "version": "1",
    "license": "Private use",
-   "name": "Stormtrooper Samurai"
+   "name": "Stormtrooper Samurai",
+   "thumb": "stormtroopersamurai.jpg"
   },
   {
    "id": "thepunisher",
    "version": "1",
    "license": "Private use",
-   "name": "The Punisher"
+   "name": "The Punisher",
+   "thumb": "thepunisher.jpg"
   },
   {
    "id": "tourreadysabrinacarpenter",
    "version": "1",
    "license": "Private use",
-   "name": "Tour-Ready Sabrina Carpenter"
+   "name": "Tour-Ready Sabrina Carpenter",
+   "thumb": "tourreadysabrinacarpenter.jpg"
   },
   {
    "id": "tracer",
    "version": "1",
    "license": "Private use",
-   "name": "Tracer"
+   "name": "Tracer",
+   "thumb": "tracer.jpg"
   },
   {
    "id": "travisscott",
    "version": "1",
    "license": "Private use",
-   "name": "Travis Scott"
+   "name": "Travis Scott",
+   "thumb": "travisscott.jpg"
   },
   {
    "id": "trooper",
    "version": "1",
    "license": "Private use",
-   "name": "Stormtrooper"
+   "name": "Stormtrooper",
+   "thumb": "trooper.jpg"
   },
   {
    "id": "undertaker",
    "version": "1",
    "license": "Private use",
-   "name": "undertaker"
+   "name": "undertaker",
+   "thumb": "undertaker.jpg"
   },
   {
    "id": "undertaker_ring",
    "version": "1",
    "license": "Private use",
-   "name": "undertaker_ring"
+   "name": "undertaker_ring",
+   "thumb": "undertaker_ring.jpg"
   },
   {
    "id": "v",
    "version": "1",
    "license": "Private use",
-   "name": "V"
+   "name": "V",
+   "thumb": "v.jpg"
   },
   {
    "id": "warmachine",
    "version": "1",
    "license": "Private use",
-   "name": "War Machine"
+   "name": "War Machine",
+   "thumb": "warmachine.jpg"
   },
   {
    "id": "wookieeteamleader",
    "version": "1",
    "license": "Private use",
-   "name": "Wookiee Team Leader"
+   "name": "Wookiee Team Leader",
+   "thumb": "wookieeteamleader.jpg"
   },
   {
    "id": "yenneferofvengerberg",
    "version": "1",
    "license": "Private use",
-   "name": "Yennefer of Vengerberg"
+   "name": "Yennefer of Vengerberg",
+   "thumb": "yenneferofvengerberg.jpg"
   },
   {
    "id": "zoey",
    "version": "1",
    "license": "Private use",
-   "name": "Zoey"
+   "name": "Zoey",
+   "thumb": "zoey.jpg"
   },
   {
    "id": "zoeyl4d",
    "version": "1",
    "license": "Private use",
-   "name": "Zoey (L4D)"
+   "name": "Zoey (L4D)",
+   "thumb": "zoeyl4d.jpg"
   }
  ]
 }
