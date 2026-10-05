@@ -1,5 +1,2547 @@
 {
  "b4bcoop-shop": 1,
- "updated": "2026-09-27",
- "addons": []
+ "updated": "2026-10-05",
+ "addons": [
+  {
+   "id": "2b-any",
+   "name": "2B (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit twob (mom)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 27183803,
+   "sha256": "e3a3fbc790ed9ee1d1c4f08b2801e98e91427bd41610ebe8736fb19c0e0b65f0",
+   "content_id": "b2c61dc34a20ecbeb35824a179829430dba7e119",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/2b-any-v1/2b-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/2b-any.jpg",
+   "thumb_sha256": "bc74ba4d50f0759a313899c6c776c52d7ab2321579c2a20d7eac450bdba2081f"
+  },
+  {
+   "id": "aang",
+   "name": "Aang",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit aang (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 9912305,
+   "sha256": "fadeef94eb2d982564039ce5d16a97b2b919cfdc097413261b6e4845e9bcc4d5",
+   "content_id": "4b6a1edbb0c9cc316716c268e7ef9dbd20002da0",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/aang-v1/aang.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/aang.jpg",
+   "thumb_sha256": "6c3c60e93b6486b10fc479721516ef4d0d5525d5540d9816010bed00a7d31f1b"
+  },
+  {
+   "id": "adamsmasher",
+   "name": "Adam Smasher",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit adamsmasher (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 29383850,
+   "sha256": "63e870bfb9987841e1328fc6a9393850a0a06bd75552556ac2f35fcde104f20c",
+   "content_id": "95370f7cd92593dcccb94f42bf3959db023c5da5",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/adamsmasher-v1/adamsmasher.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/adamsmasher.jpg",
+   "thumb_sha256": "cb5dab3ee1d97521e0f6bb46b47611c725e66f23e09d7d41162c94ec3f73f5c4"
+  },
+  {
+   "id": "agony",
+   "name": "Agony",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit agony (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 37521321,
+   "sha256": "90dfcb15d03a8b3075eef050901adf5616faa33454203e183d877c21e2fe4c71",
+   "content_id": "134ca415ce0309446993e04d425e4cc133b886d4",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/agony-v1/agony.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/agony.jpg",
+   "thumb_sha256": "872daa05897bdc64a17a6db853a7d3f1b8d8920b7f62a95499bd727632677825"
+  },
+  {
+   "id": "ahsokatano",
+   "name": "Ahsoka Tano",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ahsokatano (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38268658,
+   "sha256": "f4e3509c4cd0a9979a2993eb6d51b0d05185935cdad417334fd0aa931992a795",
+   "content_id": "cd6768b841be43fdfa73e37bb529a805e83d3c9a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ahsokatano-v1/ahsokatano.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ahsokatano.jpg",
+   "thumb_sha256": "b1c0e79ebb0e85baa98c3a8b3bbecb4654d4871b9559022650d3794eec7eb5b6"
+  },
+  {
+   "id": "alanwake",
+   "name": "Alan Wake",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit alanwake (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26674237,
+   "sha256": "823cdf0267066d5c2d92bde79dea06d6245a3d89618f8490260eaa645dc511fb",
+   "content_id": "e10dd998697c9da8a789fb189e6112d234fe5c47",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/alanwake-v1/alanwake.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/alanwake.jpg",
+   "thumb_sha256": "50eec70f057803a25b117e3ab1aebc20641d399577a8095ee0fbb5605b5afeaa"
+  },
+  {
+   "id": "anakinskywalker",
+   "name": "Anakin Skywalker",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit anakinskywalker (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 36046034,
+   "sha256": "200fffdbd94a945bbf534836c32a84ae00060ef59bcf2feb1062d35f18a3bd10",
+   "content_id": "b1eae1906edce6ea1bc8a7ae3faf24d0ef7c5614",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/anakinskywalker-v1/anakinskywalker.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/anakinskywalker.jpg",
+   "thumb_sha256": "dd6c37ed352f7cbf5b3d95b223cec2cce6ff37cc0c048df9c6f7ca736bb8bd6c"
+  },
+  {
+   "id": "apprenticerey",
+   "name": "Apprentice Rey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit apprenticerey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39995272,
+   "sha256": "2b727db72392033670386c07397b65d67acbc284c2377efdd9c475b280f989b1",
+   "content_id": "04128fc5e566602ad625a049c2b31dc3fb77c042",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/apprenticerey-v1/apprenticerey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/apprenticerey.jpg",
+   "thumb_sha256": "5767afcbc402ebea1310bd24678a0dc16f421b6cce649592dd18fc16ff852250"
+  },
+  {
+   "id": "aquaman",
+   "name": "Aquaman",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit aquaman (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31546799,
+   "sha256": "52344666d8dae0f45cb840a58bfd6dcf68ff54eae97c14508526f2a878b751ba",
+   "content_id": "fa4ba5c9f56488f86c1b6908ee612963bf36340d",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/aquaman-v1/aquaman.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/aquaman.jpg",
+   "thumb_sha256": "ab7ec98c5b2e355a198466ca5a1e3060d806d0f13c5a7c6d1a87f3c3ffca3c70"
+  },
+  {
+   "id": "arcanevi",
+   "name": "Arcane Vi",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit arcanevi (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38389276,
+   "sha256": "16cc1c6944af750dc3454ce3012792e6651ca61c899a64cded986f16dc64594d",
+   "content_id": "8325e31a31b0831eb8e0d65f4957e3a23cca73f0",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/arcanevi-v1/arcanevi.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/arcanevi.jpg",
+   "thumb_sha256": "46223f5fee9f5307fe0d55b5497cee95afc9391e45b183de86bc4ac15af96dd6"
+  },
+  {
+   "id": "arianagrande",
+   "name": "Ariana Grande",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit arianagrande (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39059184,
+   "sha256": "6a0d07c3e3165e5c0808ff58ec81a114de62e6a2ee261de6a2764ba6149b926b",
+   "content_id": "8482e1ed0dbc7f83e91b55e5fcb01f7dba1ddf32",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/arianagrande-v1/arianagrande.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/arianagrande.jpg",
+   "thumb_sha256": "48ef05d575fea85a2b2e62d1b8788fa33513820e6dd0412ebeb598f5b55d2852"
+  },
+  {
+   "id": "ash-williams-any",
+   "name": "Ash Williams (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ash (dan)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 199132981,
+   "sha256": "df2fd33709fe58be9a9f7c563854698b33fd864f81d195ddb74c16d7d514093d",
+   "content_id": "247f9a57f1eaa08cf3f7ef128be288410891ae5a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ash-williams-any-v1/ash-williams-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ash-williams-any.jpg",
+   "thumb_sha256": "1a53039945209e983d10270b1e0fcdbea7bbbccbf6826385e2d822710818de7b"
+  },
+  {
+   "id": "atomeve",
+   "name": "Atom Eve",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit atomeve (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26712840,
+   "sha256": "ca7d983d5238bd86aae1a9bf8f7265dd2ec45d2edb9c1cb1369e87bad70a5ed8",
+   "content_id": "21c353318a2514c8afbf8c0e34adbaa49932d184",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/atomeve-v1/atomeve.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/atomeve.jpg",
+   "thumb_sha256": "3ac3db15a61820ec625e7ff49ec1a78d6c07b027547f713c4b505ccc09182716"
+  },
+  {
+   "id": "batman-any",
+   "name": "Batman (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit batman (jim)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 145237537,
+   "sha256": "b27626a0f7c10417ad3f047e5c07d4a82ef810c7a113ecfa32e3c6371b968eb8",
+   "content_id": "bc90271974719dfb005ea8ef8e0aba390fb53ea2",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/batman-any-v1/batman-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/batman-any.jpg",
+   "thumb_sha256": "22d48a11266d65b3c059a91f77a2931cdc591f70bdeb8c0692e3bd78948ec4d6"
+  },
+  {
+   "id": "beckylynch",
+   "name": "Becky Lynch",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit beckylynch (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 46579564,
+   "sha256": "3dd32dbd66b0b7da0c7a910fd11a2776fac6b90662612f16f6ac4192aebe2115",
+   "content_id": "dd5c0ce9a5551427b644d5469d94753d965c9177",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/beckylynch-v1/beckylynch.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/beckylynch.jpg",
+   "thumb_sha256": "2d7e3b3141e3797bb9b445d32ecd6a83a5237751feacc4d4f0de0013e3af4828"
+  },
+  {
+   "id": "bill",
+   "name": "Bill",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit bill (heng)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 28150701,
+   "sha256": "77152597ddc1e750506fc535e829924d39bb8b5918b2ea0a8687b2c813918529",
+   "content_id": "6bdcefb317e5a880473554dbd3845021914f40b5",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/bill-v1/bill.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/bill.jpg",
+   "thumb_sha256": "5eb1b1cd7e4d99169d8b1831e50ea280d5fbdcfb1f7a251c04c868b423e526b2"
+  },
+  {
+   "id": "blanka",
+   "name": "Blanka",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit blanka (hoffman)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38252881,
+   "sha256": "4bf8a3f41dbe7adcc7ce4c5e3765939b76db2bbfc60a4f48556fcfe863503049",
+   "content_id": "aa32eaa42c4e9f49164f23c1bdefa5cebd099eef",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/blanka-v1/blanka.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/blanka.jpg",
+   "thumb_sha256": "f3a12a0b7e16d189e06e0b0dc7959f6fbfff82a2a8b805f91258a012d7ff8f67"
+  },
+  {
+   "id": "brunomars",
+   "name": "Bruno Mars",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit brunomars (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 42168611,
+   "sha256": "98f70178c7a6ace02e72746833e398c65050d2dc1295a9ca36c43f198b3ebfaf",
+   "content_id": "8d27ef4cf4c5537d55bfd8fed3e67c34ecd64582",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/brunomars-v1/brunomars.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/brunomars.jpg",
+   "thumb_sha256": "9442b0f589e6a93db86f1c5ce09188d0a02634221b55363aace285a4c2268b02"
+  },
+  {
+   "id": "captainamerica",
+   "name": "Captain America",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit captainamerica (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35378907,
+   "sha256": "3a90512078191a8195bc642901589bbcaa408c618454aff403d21dc411874c4e",
+   "content_id": "61e3f3b8918eeef363f8e903926c0b5c7c8f9e13",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/captainamerica-v1/captainamerica.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/captainamerica.jpg",
+   "thumb_sha256": "9cff6d9da959dfe20fcfea317e505f6733352218ceb91defd58f31069f0b2ace"
+  },
+  {
+   "id": "carnage",
+   "name": "Carnage",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit carnage (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34538899,
+   "sha256": "fff458ed0587f1bb3a55da48e7d4cf9ab31cd06d1bf61c14fb1f5ccb8a07c329",
+   "content_id": "09bde9f7c818585e20c36fd3df5c2410c78927e9",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/carnage-v1/carnage.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/carnage.jpg",
+   "thumb_sha256": "33c7fda1f0d312a2adf68bda2d6d79ab8bfe75a701595094daf144f59e715b73"
+  },
+  {
+   "id": "charlotte",
+   "name": "Charlotte",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit charlotte (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34233844,
+   "sha256": "b5519b42c88c6c04ff33d826a3d625b82dddef035e1e423e9d5033fed2c92136",
+   "content_id": "688ed28d3863a61d7098d308f506bcd4bfb5def2",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/charlotte-v1/charlotte.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/charlotte.jpg",
+   "thumb_sha256": "c19ce62d160253fd7389abd1c71732a270687fe40cfebff1f6cf0e8890e82082"
+  },
+  {
+   "id": "chief2",
+   "name": "Master Chief Infinite",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit chief2 (hoffman)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 24714510,
+   "sha256": "a5a3697ea704ac2c55d41218e1cea0718a26752b655398e5b19c0e8bb28485b7",
+   "content_id": "2e41130ca58fa82904134918b09c0616cd933f17",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/chief2-v1/chief2.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/chief2.jpg",
+   "thumb_sha256": "6769f262af7b35cb7ae782e481e60c99bee274b3554c3090eae44a225a35b136"
+  },
+  {
+   "id": "chrisredfield",
+   "name": "Chris Redfield",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit chrisredfield (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31441635,
+   "sha256": "0518b3042e300080f9f354deb4ed37ce4dbe926c7c57e664c774afdbc00a88ff",
+   "content_id": "f1e9f199f32cc132205ae089f006e6859048803d",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/chrisredfield-v1/chrisredfield.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/chrisredfield.jpg",
+   "thumb_sha256": "ffb9a12e5d26dcbc6cbf113499446adeab1768ca3903d272be669eba80864ff7"
+  },
+  {
+   "id": "chunli",
+   "name": "Chun-Li",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit chunli (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30030052,
+   "sha256": "3f0d6ab7a48a3bcc3141aedb89c217f407c09782261f677327d35506c48055e7",
+   "content_id": "9e6af6d5a11bcaae477f5b758c2a845e4e3b1875",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/chunli-v1/chunli.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/chunli.jpg",
+   "thumb_sha256": "543e1446ed243c61366700f8a1445ff8f784baa7ab5daa715bc017b793909d5b"
+  },
+  {
+   "id": "ciri",
+   "name": "Ciri",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ciri (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38954862,
+   "sha256": "83c8e60cb252c400ea01b5f9cba104ca365c6440150d1eee0ac12b7ac12652dd",
+   "content_id": "0160fca1319b9c18156509b0f7ae3c1b9b7af2be",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ciri-v1/ciri.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ciri.jpg",
+   "thumb_sha256": "66f1fb73a94bddfd0f915bdabe9cc93f75d4eb1df51bc939e74f18e488b19052"
+  },
+  {
+   "id": "claireredfield",
+   "name": "Claire Redfield",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit claireredfield (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 47369526,
+   "sha256": "872960ece2687ae6b38287b1da748fc6c14266e56802f48984a0b57d71041972",
+   "content_id": "b86261df0f98efdccf2f0eb66ec28f0e0aeb8e37",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/claireredfield-v1/claireredfield.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/claireredfield.jpg",
+   "thumb_sha256": "4bc6d2d2fbacec3c7b690f9406bad227e70e3a7d367c55103b20419fcdf8e782"
+  },
+  {
+   "id": "coach",
+   "name": "Coach",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit coach (hoffman)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31000736,
+   "sha256": "7ef3a41a896412ffe6b9b296e237d6d07c9f56944f4281aabf77b9aca6167c7e",
+   "content_id": "709c4bdea39db47c5d37b2ae2014c16aa3e779f8",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/coach-v1/coach.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/coach.jpg",
+   "thumb_sha256": "dc6d99fd8d7b46c957c286d0b4085175246433fff1b1f148855beda6a0c58c94"
+  },
+  {
+   "id": "darthvader",
+   "name": "Darth Vader",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit darthvader (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 50722670,
+   "sha256": "8d77101167c0ef6932a72dfa245bcf74252a7240d6694aa75ac69305d3199a1a",
+   "content_id": "d4f330407cfc98aa249a175894329daec143b530",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/darthvader-v1/darthvader.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/darthvader.jpg",
+   "thumb_sha256": "424b4284ab7ded069e75be823c8934422df437efa83cf72f95df2d08da3f769a"
+  },
+  {
+   "id": "daryldixon",
+   "name": "Daryl Dixon",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit daryldixon (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 44317159,
+   "sha256": "73a7a002837bfb70d3df660f8345aa4e3a8218bc041b4d3d8a321d578d6549b2",
+   "content_id": "553f7f8c785a498e3e9b5e0e055ea4cbca440905",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/daryldixon-v1/daryldixon.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/daryldixon.jpg",
+   "thumb_sha256": "18b35cd51199ffb6987e5ecc43b8681a16e66dbeccdf6021bd3dd9de45acf2b9"
+  },
+  {
+   "id": "davidbeckham",
+   "name": "David Beckham",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit davidbeckham (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35349163,
+   "sha256": "4296561f2cf716457c9df53fc46b81877ac9a9b3247ee2dc00476e61222d0299",
+   "content_id": "941c5dbf26c5d1746ee2a6f003820c189d469939",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/davidbeckham-v1/davidbeckham.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/davidbeckham.jpg",
+   "thumb_sha256": "bc8433b4f8859480fa0179682b60c95d05cd360517f45b9773537631aad702ef"
+  },
+  {
+   "id": "deadmau5",
+   "name": "deadmau5",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit deadmau5 (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34937753,
+   "sha256": "1c9a61398bbfe264b42e4f8effe0a94a3f2d46d6670998025407a6ec2689e84e",
+   "content_id": "3585f8e8afc5eacdff9b14672ff8e9c70d8df8de",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/deadmau5-v1/deadmau5.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/deadmau5.jpg",
+   "thumb_sha256": "3ba7be4bc269941ab04fb9e8b4de76648f2aee0d147f0e75ecf6b68e9ccdda01"
+  },
+  {
+   "id": "dojacat",
+   "name": "Doja Cat",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit dojacat (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30468113,
+   "sha256": "1c85e8cb6b912fbd694d6b0e46d5aadf6c921be43b1081f970e5b5f1711fd902",
+   "content_id": "3dcf9d9ae4de7cb99941890a36e5a842651f205a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/dojacat-v1/dojacat.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/dojacat.jpg",
+   "thumb_sha256": "a26b3438b20ecd0177a17c84d66121084af109163ad662a0ba62f55f26ce9e7e"
+  },
+  {
+   "id": "ellenripley",
+   "name": "Ellen Ripley",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ellenripley (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34403550,
+   "sha256": "a5bafa69ad5d716d62f055e6efdf7c7128114f7bc4dd108f7a04b88db1a45cc9",
+   "content_id": "0c4a69a782b2e44418c3e195e83131d3e8470c79",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ellenripley-v1/ellenripley.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ellenripley.jpg",
+   "thumb_sha256": "62f18a59d28868b20025d0fd7ab3aa51c45e4bad6ef32bd0e5db91f857e33b02"
+  },
+  {
+   "id": "ellis",
+   "name": "Ellis",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ellis (evangelo)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39937888,
+   "sha256": "d0bf1332246eb88ba23747ff29889c5577181eb8482575b07ed00b8dd7e5a864",
+   "content_id": "09282424a180cd406e85d5e6d4e09a25ad6b9561",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ellis-v1/ellis.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ellis.jpg",
+   "thumb_sha256": "7eca5655b9cff3984d9f80e8de8c743592efef0ca65fb4022be2dd2cb8522bab"
+  },
+  {
+   "id": "fiona-any",
+   "name": "Fiona (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit fiona_01 (doc)",
+    "outfit fiona_02 (doc)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 40391043,
+   "sha256": "3102f9722485098cc20e17020a13ef714f9d61e43e563f18ad053316774e2449",
+   "content_id": "db0111756913f6abffb7055c3ded54c136847ac3",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/fiona-any-v1/fiona-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/fiona-any.jpg",
+   "thumb_sha256": "13402c9c24c8683638751bbc7d61f37d9c097b1853bfc660628cc9465626a04b"
+  },
+  {
+   "id": "fn501sttrooper",
+   "name": "501st Trooper",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit fn501sttrooper (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35469917,
+   "sha256": "1ce8bc5105dd2bdea0df7e9b95ad5d3ce738dd3d03cc88d7a60b92510f2dc1a2",
+   "content_id": "0cba525b0a00229017dae191feb2f2628e3dd7f4",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/fn501sttrooper-v1/fn501sttrooper.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/fn501sttrooper.jpg",
+   "thumb_sha256": "972773024e1b79ce45fe7ef706462abf9f8d0c8644e5ae9559c298c2e28b9029"
+  },
+  {
+   "id": "francis",
+   "name": "Francis",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit francis (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 32811182,
+   "sha256": "facad9b9b70037a8ff24b8ad53b6406c438b0e5ca704c87be9ca40632b5ac7b6",
+   "content_id": "fc9a0fb032873a7e9b2c49b8bf45633c52d1f781",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/francis-v1/francis.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/francis.jpg",
+   "thumb_sha256": "221d9011cc12ce056dc58b42a292b50dff2e51c3f2c380c880f502af613d62b5"
+  },
+  {
+   "id": "frank-west-any",
+   "name": "Frank West (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit frank (evangelo)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 756161761,
+   "sha256": "913a908c7aadd0f5fdbd3f40e8c89bbac27c1f3916ddd25b3d5b63dd5e9076d0",
+   "content_id": "6dc4cf6e3a0ff64605bd2c4e23649b871438edca",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/frank-west-any-v1/frank-west-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/frank-west-any.jpg",
+   "thumb_sha256": "846338882ac6deac762d65031fbd2185e7b05a4f442d3f41ce8959c45faa97c4"
+  },
+  {
+   "id": "frieza",
+   "name": "Frieza",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit frieza (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 24218279,
+   "sha256": "b82aee9521cd2d6abf479215cbaf30eb0ba24f26246c40f4507dab50f3478a3e",
+   "content_id": "3d22789e8fa11f94efda6384b796052edb66c0c6",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/frieza-v1/frieza.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/frieza.jpg",
+   "thumb_sha256": "ad34a456066e53903a11e67f0ea37bbf1cbfff4198472634e189aecc28a8b6a8"
+  },
+  {
+   "id": "gamora",
+   "name": "Gamora",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit gamora (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30213808,
+   "sha256": "6bc241b09c8759aac0a8ee1ca16be8c67e1a5cb42b96d9649bfbd67630a8cb11",
+   "content_id": "c54c34977440a117e71449013beab4de3378fe20",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/gamora-v1/gamora.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/gamora.jpg",
+   "thumb_sha256": "014ede2136a9fefc17bbfa9ea1f0e61d3508e8fc6071c55b7baf76dddcd60cbd"
+  },
+  {
+   "id": "geraltofrivia",
+   "name": "Geralt of Rivia",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit geraltofrivia (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 40295387,
+   "sha256": "d9f116aaf885891f4789e7621d13085e56ecc589d3bd8fb5cb054e221f72a963",
+   "content_id": "772164c7ffbd4350ce9f066427495b3cbb2215d1",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/geraltofrivia-v1/geraltofrivia.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/geraltofrivia.jpg",
+   "thumb_sha256": "a37ca56f60d6eaa91584b042fe35de1cea035d920a6b35e05a5434a43500fc11"
+  },
+  {
+   "id": "goldenmira",
+   "name": "Golden Mira",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit goldenmira (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39400698,
+   "sha256": "b712d259c7cdf93a6d1a0196644f510c9a2f33c0ca8c4c935b35de67b0a1d302",
+   "content_id": "3833ee9bd79ef1f9a44df1b63dfc2e07ce4635a2",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/goldenmira-v1/goldenmira.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/goldenmira.jpg",
+   "thumb_sha256": "b5d8d3bddd995ea2daf0150a49a3da84ee0361a276a727ef644d41c5f33b78a7"
+  },
+  {
+   "id": "goldenrumi",
+   "name": "Golden Rumi",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit goldenrumi (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39336872,
+   "sha256": "959d8b225c43714030e8f4987caacaef677f36f8ddceb21464436f71e2a33891",
+   "content_id": "c7c5b6dd50d6be87bd84753d4ad2a73fd33b21ad",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/goldenrumi-v1/goldenrumi.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/goldenrumi.jpg",
+   "thumb_sha256": "d02e7e9d6e68e73c02db4be2cc9193447395472f262e446cda619d4f7c791347"
+  },
+  {
+   "id": "goldenzoey",
+   "name": "Golden Zoey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit goldenzoey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39271828,
+   "sha256": "d22be92175fd82886988c60022493757ca6bbe2aa436baef6b06aa3c22cf9b38",
+   "content_id": "7228b8df93bf300b7c1f610e1003564020af67cd",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/goldenzoey-v1/goldenzoey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/goldenzoey.jpg",
+   "thumb_sha256": "c60d399761c975ea8f85d84db8ba8d5223939f519015e19466cff3f25e757a1a"
+  },
+  {
+   "id": "grace",
+   "name": "Grace Ashcroft",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit grace (karlee)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 24922505,
+   "sha256": "713120fb43e48a8f3cf0e8ea179f9e64297718e299948cfd428683e9f5f968f3",
+   "content_id": "f23b90fe9b62ccec7dade09c6176bca61f652300",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/grace-v1/grace.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/grace.jpg",
+   "thumb_sha256": "07beeabaabdc61dde14bc2b99b1f3d297df8e599ce80ea0d99bee4ef44989182"
+  },
+  {
+   "id": "graceashcroft",
+   "name": "Grace Ashcroft",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit graceashcroft (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39212035,
+   "sha256": "e683049099c535d10f4ff86e821176b970e26512d9a4f9fc0f976fbdfe044820",
+   "content_id": "0a83107f80ac70c5ee7c925e2c90bce076d414fb",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/graceashcroft-v1/graceashcroft.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/graceashcroft.jpg",
+   "thumb_sha256": "aff6f9e2f42e54a77b66951eacdbf45c509f08fe7ae388dd439282cc999cb536"
+  },
+  {
+   "id": "greenrootsbillie",
+   "name": "Green Roots Billie",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit greenrootsbillie (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38232756,
+   "sha256": "37d155bb0b525f81653c361bbda979c5a9e1195cc8332716a5e5b5b201caf43d",
+   "content_id": "f9bcb175ffc3328c528bb68ea3523b5427283eff",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/greenrootsbillie-v1/greenrootsbillie.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/greenrootsbillie.jpg",
+   "thumb_sha256": "1ebba4eee7efdc5866f97795b4bee9791a5d6b32d51f3330f8d4762564b0469c"
+  },
+  {
+   "id": "guile",
+   "name": "Guile",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit guile (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35390702,
+   "sha256": "d7fb8fd2ba4a1a11b3db930c6fb8614d7607fc2b1635f9c6ff00b4251c34f1b2",
+   "content_id": "192744e1101886c4cffa5520cebc400e2b5bfaab",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/guile-v1/guile.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/guile.jpg",
+   "thumb_sha256": "e3d89bbb8da45a7ffcdbe93362bdc41ca58611deef57b36befa499c8c3549559"
+  },
+  {
+   "id": "haze",
+   "name": "Haze",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit haze (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38150344,
+   "sha256": "999a017728a25e808b3c19759a1d96ca68b60220e5571317a70a3eb074d3eedc",
+   "content_id": "80cfe7145f084f6012eb2bab27d9bd94bbcfa58e",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/haze-v1/haze.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/haze.jpg",
+   "thumb_sha256": "b2f5c35f674f77f592566e1efdb135330eafbe4541360c7a1c6a8613d0590e38"
+  },
+  {
+   "id": "heman",
+   "name": "He-Man",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit heman (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 24905305,
+   "sha256": "d57c958ad7bf117dfd91d58678a0294b3061b7f37f3696744bcaaac863e15a37",
+   "content_id": "a44fd03375fcec3d395ad602e11284e60ea1ac25",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/heman-v1/heman.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/heman.jpg",
+   "thumb_sha256": "e356c9bc6aa79644db8dae83ca4ce5458a7b30d1247e96c37332f206b7cba45f"
+  },
+  {
+   "id": "icespice",
+   "name": "Ice Spice",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit icespice (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 47364270,
+   "sha256": "df63a8749996a291322b2773c7f79e742f90038fb9603d88f71c956818bf274f",
+   "content_id": "13ea652c607e01d015b0f7b31d7625aadfba5844",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/icespice-v1/icespice.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/icespice.jpg",
+   "thumb_sha256": "1f76abf87cd465b7a90af923457165b66289e1edefedfe7eef4897453aff02d9"
+  },
+  {
+   "id": "iconickimkardashian",
+   "name": "Iconic Kim Kardashian",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit iconickimkardashian (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 40930761,
+   "sha256": "922c08cdb9837994aa7d1d3108fc0828320282a33d9f7a148ac76a402b3cd42f",
+   "content_id": "9d9733ca9a8e14bdad80648116299e450774bf97",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/iconickimkardashian-v1/iconickimkardashian.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/iconickimkardashian.jpg",
+   "thumb_sha256": "c8fb28abed68bccfccd62b056e5867de6562c4b4007c6c139ee09fe3ae60acab"
+  },
+  {
+   "id": "ironman",
+   "name": "Iron Man",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ironman (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39483017,
+   "sha256": "e5c99416253a1343d5c14092e15e5fdb6423f0041b19a682eaa67028863f046f",
+   "content_id": "33d1ba7228e96b67227499e11b7c62d56f8f27e4",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ironman-v1/ironman.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ironman.jpg",
+   "thumb_sha256": "12142ae313d9c2e928df78e859adad30e9b6901f251f6e74e6932d3a7f8d660a"
+  },
+  {
+   "id": "isaacclarke",
+   "name": "Isaac Clarke",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit isaacclarke (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35861298,
+   "sha256": "e74d9a241f40b393790c901a5182555d2071d6b9f80d891bd731fa4db1e6b1b9",
+   "content_id": "d309951b4ea65fe6e258725082c033627e2b57e8",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/isaacclarke-v1/isaacclarke.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/isaacclarke.jpg",
+   "thumb_sha256": "951585dbdfcd125893bdfcf3760261f60cf4c6afd07d770202bccbb7945892af"
+  },
+  {
+   "id": "jameshetfield",
+   "name": "James Hetfield",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit jameshetfield (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35921962,
+   "sha256": "092ba500ed3aec1d64bcc1dc1b9b18e5c56f60f04427209a4f9014f2553dc6c1",
+   "content_id": "e16861a160c86e2f603fad231c10441336240990",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/jameshetfield-v1/jameshetfield.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/jameshetfield.jpg",
+   "thumb_sha256": "f4dbb798d3b15f1e9b881d98cdfa8f4b04ecd9115bb98922cd9b42b772e4b71c"
+  },
+  {
+   "id": "johncena",
+   "name": "John Cena",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit johncena (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26889723,
+   "sha256": "3e8f9c862f87319f462f6f4969e030b2842e99cb342faae217381353c4c52897",
+   "content_id": "a3e806ca0ac80b81be8dcd9d3fbcc304bb8db856",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/johncena-v1/johncena.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/johncena.jpg",
+   "thumb_sha256": "7cd9b9898f870c22af7744dcad765274b68c42c91d4318b33e583a5650054196"
+  },
+  {
+   "id": "johnwick",
+   "name": "John Wick",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit johnwick (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 44614561,
+   "sha256": "815370f1d68caba5a063cf03610ed713ebe907c991aed25530a1e0337d97e6bf",
+   "content_id": "9432cc2aa4e8aa638266b35c2beb9a0bca2e97fb",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/johnwick-v1/johnwick.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/johnwick.jpg",
+   "thumb_sha256": "862d1891ea8a74e999728e572bcb036427e15068a46ea10e9242ce38313b0bd1"
+  },
+  {
+   "id": "kirkhammett",
+   "name": "Kirk Hammett",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit kirkhammett (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35717448,
+   "sha256": "1d2984c3e259a2d04e22f5051f275e10d88a7d0321740cb8f5c278244f7a37c7",
+   "content_id": "ccf7a7e379e315125d267349db17efb229a4c8bb",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/kirkhammett-v1/kirkhammett.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/kirkhammett.jpg",
+   "thumb_sha256": "7d1c2e42ad4c8665be41ceaaf3609fe04a833fab319f12537897c218edcbd236"
+  },
+  {
+   "id": "korra",
+   "name": "Korra",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit korra (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 22964972,
+   "sha256": "3be53d50527076975b2a75d1e64ba5bf4276f51881a9b3a4871360fd23addeaf",
+   "content_id": "73043f0b955fb5dd0d1dcb4b1613a60b25934381",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/korra-v1/korra.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/korra.jpg",
+   "thumb_sha256": "4ee8378e8c0149c5c8e496f10af5fcaf5382e48d9e20146969d3c76fee5508f6"
+  },
+  {
+   "id": "kyloren",
+   "name": "Kylo Ren",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit kyloren (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 50149505,
+   "sha256": "d5d829b8ed35db03191b0b4a946f45a3fee54398d69cc221fbab341e2bf7c3ad",
+   "content_id": "1bd3ae377b3195ce5b69a14558fca2146e843ed3",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/kyloren-v1/kyloren.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/kyloren.jpg",
+   "thumb_sha256": "7a1c6edae74b03edd0f145a03de6a22d52edeb6d07b5d0181fb5df1774d12da4"
+  },
+  {
+   "id": "lara-croft-any",
+   "name": "Lara Croft (any cleaner)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit lara (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 181473221,
+   "sha256": "e5bc2cf152302a96bba590f0be63f05857bb1ecd2ff25c2458f378166fc7bf51",
+   "content_id": "6ada65588942c73529979b2ba7dd9c91464eb9e3",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/lara-croft-any-v1/lara-croft-any.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/lara-croft-any.jpg",
+   "thumb_sha256": "b947e7487f1f1df216e7880d2031efd4ee39d430cca9d3e8de1e655db4c5bde6"
+  },
+  {
+   "id": "laracroft",
+   "name": "Lara Croft",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit laracroft (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38928039,
+   "sha256": "8ef79ef838a4ea0ed2bba206271cff585a07647072ceadf0caca7f25e70e3441",
+   "content_id": "abd883126906e6b464ee604413dd8026f0a9a3f4",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/laracroft-v1/laracroft.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/laracroft.jpg",
+   "thumb_sha256": "8f540a41b682652db03be44964ae3cffa9d96626fe805f8e5157b9d70416bf4f"
+  },
+  {
+   "id": "laufey",
+   "name": "Laufey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit laufey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 41845036,
+   "sha256": "753e50098108f3deb18af4dd3ff37d1a6190d2835bc792a94943ab4987d90d7c",
+   "content_id": "35ebe481b952c1a44ca28ad96a6d0b2269ed1d45",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/laufey-v1/laufey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/laufey.jpg",
+   "thumb_sha256": "73b3f871f0f4494b090ec0834e9076033d863e0fb50a1014bba06eecaf585b49"
+  },
+  {
+   "id": "lbc93dogg",
+   "name": "LBC '93 Dogg",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit lbc93dogg (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 29420540,
+   "sha256": "6e8a20b444aef4f5e0ed2f0f54f926fd936aa556e28383739d977d5370efb59b",
+   "content_id": "ff0628f7f62d31b77e3a956202e92f00d567a44a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/lbc93dogg-v1/lbc93dogg.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/lbc93dogg.jpg",
+   "thumb_sha256": "ea4908c8aa83f71ea905552029af94c26961567ff587f033d6891655f1fc1570"
+  },
+  {
+   "id": "leon",
+   "name": "Leon S. Kennedy",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit leon (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30528163,
+   "sha256": "49002ea72351176e57d41b84bb8f05b8b78fc32445a13410005f053a280765b8",
+   "content_id": "d613bfd10b3b4045f41fef97a5b0b08e07b2fc67",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/leon-v1/leon.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/leon.jpg",
+   "thumb_sha256": "4f71cd6fa9d44d73d1c045ef8dc7bb28ffae0956f959519f7ff6d2d8ac3d9243"
+  },
+  {
+   "id": "leonardo",
+   "name": "Leonardo",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit leonardo (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35556691,
+   "sha256": "58de4862efab5418f53e16b053cc4749f3e2958f6d427229f6ae87861b67d32a",
+   "content_id": "3c795f5b88a349ecaf9b8b63e5f0bb464f48cc5a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/leonardo-v1/leonardo.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/leonardo.jpg",
+   "thumb_sha256": "2a978eff01726318e9564e226096b94411b12bf5e9820d3d75fdd7767e9fb9a1"
+  },
+  {
+   "id": "louis",
+   "name": "Louis",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit louis (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30521206,
+   "sha256": "b189e31a338d33907c40d2107ec639f0b93545c197fc11eeaa3e24fc92942ff9",
+   "content_id": "aeb5a364efe9b8a73b10ef00bc9f04cfa1e8ea54",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/louis-v1/louis.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/louis.jpg",
+   "thumb_sha256": "b53a3ad4d2e55aec328672586646e85658f0b3754614f652e231f3647ec7d6dd"
+  },
+  {
+   "id": "lovergirloliviarodrigo",
+   "name": "Lover Girl Olivia Rodrigo",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit lovergirloliviarodrigo (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 45131196,
+   "sha256": "b812d9ec3eb198ae8fd455d347002c4988cb367ab5eb174d3e2b987790423ab5",
+   "content_id": "c1fc920b321a0f347b50df830c8de7027378f686",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/lovergirloliviarodrigo-v1/lovergirloliviarodrigo.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/lovergirloliviarodrigo.jpg",
+   "thumb_sha256": "07c5b93c5c4848c6e07829d4496893415c11f2db5c69678040ab20d2c71e2f71"
+  },
+  {
+   "id": "macewindu",
+   "name": "Mace Windu",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit macewindu (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26366876,
+   "sha256": "22be1f1600d8d1a769a5454304e3fec756453c9e256544e61a67f6adb1ece2d6",
+   "content_id": "ab15047f701e88c2ba433d1b55fb7b2e12c5bbcc",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/macewindu-v1/macewindu.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/macewindu.jpg",
+   "thumb_sha256": "147ef032254207f6c6cbba2e431a123fddd5532b31d5d383f894d1706c6adf96"
+  },
+  {
+   "id": "mandalorianwarrior",
+   "name": "Mandalorian Warrior",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarrior (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30766510,
+   "sha256": "08be19e71abb6fabcbcc950b9a61b346396936276f839475db8057bfe387f0f7",
+   "content_id": "131d9ecd8437ff70dd4bd15b7c0721677e1e9e02",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarrior-v1/mandalorianwarrior.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarrior.jpg",
+   "thumb_sha256": "55a0da1a9bdbcd2b9fda8265a8381d34fcce770c8b96657754a7fb51fd389b22"
+  },
+  {
+   "id": "mandalorianwarriorhonor",
+   "name": "Mandalorian Warrior (Honor)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorhonor (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30767121,
+   "sha256": "15a070bdaf4b40304800c82c69b35f2062f5d1971337385a1d339ae40193cb03",
+   "content_id": "4cbfe3f8dcd070f552d1da30ccff4d124cc9d586",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorhonor-v1/mandalorianwarriorhonor.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorhonor.jpg",
+   "thumb_sha256": "55a0da1a9bdbcd2b9fda8265a8381d34fcce770c8b96657754a7fb51fd389b22"
+  },
+  {
+   "id": "mandalorianwarriorhonorgreen",
+   "name": "Mandalorian Warrior (Honor Green)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorhonorgreen (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30767728,
+   "sha256": "5fa8cec98541b84262eb6debb6a503f1379b26adcd798cc8de6882f4b2f53b71",
+   "content_id": "e73de489df0c41608de9cc2855cba40f01960d2f",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorhonorgreen-v1/mandalorianwarriorhonorgreen.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorhonorgreen.jpg",
+   "thumb_sha256": "8074c200f37d053e847654c6a0c5d8caab12c10dadc6521039359b6345106670"
+  },
+  {
+   "id": "mandalorianwarriorhonoryellow",
+   "name": "Mandalorian Warrior (Honor Yellow)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorhonoryellow (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30767849,
+   "sha256": "2f3d2e5b6e4a7ac69ffb4c62c95035334a3066fee4c5efe48d401d71b9749ad6",
+   "content_id": "f5e60821f6a8312f81ce0fd25e0edbf6a0b09036",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorhonoryellow-v1/mandalorianwarriorhonoryellow.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorhonoryellow.jpg",
+   "thumb_sha256": "2dc52cb52cd4a4965921758a834147a0cef24638cc8e9538edf89acaa3f00763"
+  },
+  {
+   "id": "mandalorianwarriorloyalty",
+   "name": "Mandalorian Warrior (Loyalty)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorloyalty (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 43264728,
+   "sha256": "3ea656bcc2e30ae8740b95c0697038f7fd87eb5300863b1970f7c0665de0767f",
+   "content_id": "6bfda204bc36c4f5140dccc94e761321f5bc8bcc",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorloyalty-v1/mandalorianwarriorloyalty.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorloyalty.jpg",
+   "thumb_sha256": "66ce05eddd9f32375cc5c76c7c5ec7fc39fb79f432090bb55286c8f80210d9a3"
+  },
+  {
+   "id": "mandalorianwarriorloyaltyblue",
+   "name": "Mandalorian Warrior (Loyalty Blue)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorloyaltyblue (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 43158488,
+   "sha256": "a991db264c49499ac066aec0b38eca2ac97478d2a57691e7e99e5ce5e651f6ec",
+   "content_id": "2d877b4a7becfb1b3c6a6db06e2b5fb4987d24f0",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorloyaltyblue-v1/mandalorianwarriorloyaltyblue.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorloyaltyblue.jpg",
+   "thumb_sha256": "24680f70eee01aefd2d2b2c0acd8ab2956f128af6693eae176ff12441c021ba2"
+  },
+  {
+   "id": "mandalorianwarriorloyaltygold",
+   "name": "Mandalorian Warrior (Loyalty Gold)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mandalorianwarriorloyaltygold (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 43158488,
+   "sha256": "a0a96f091f3618873758e95775c7f423eca725ed9ec3e75c7f59ea595e60e6d9",
+   "content_id": "407b9ae00bd6ae6d8ed845b64ff451cc0b018d59",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mandalorianwarriorloyaltygold-v1/mandalorianwarriorloyaltygold.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mandalorianwarriorloyaltygold.jpg",
+   "thumb_sha256": "23a666712847ff4a823ca6ce7b33a174f7bde4289a26d81de8f7be0d788b19ca"
+  },
+  {
+   "id": "mando",
+   "name": "Mandalorian",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mando (hoffman)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30773161,
+   "sha256": "6a242876de86ffd0e13bbf56a1aa003eee82d2b39b844768e0dd8427cc1b0783",
+   "content_id": "fdccfcf55d7a6abeea2af19e12eae1519c834f73",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mando-v1/mando.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mando.jpg",
+   "thumb_sha256": "59322f98a069b960f54f5d460826831f88ff577ff45ffd17c97e106ebca2c396"
+  },
+  {
+   "id": "marcusfenix",
+   "name": "Marcus Fenix",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit marcusfenix (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39728265,
+   "sha256": "01609b6f78af97b99b4fbc4c6566e5bcc7ea1e9d3af9114493dc9506a403cc3c",
+   "content_id": "2f5605b7cb2234d2b6388979f9e94554dfb26019",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/marcusfenix-v1/marcusfenix.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/marcusfenix.jpg",
+   "thumb_sha256": "eaadeaddb01351d284b51b673cb17d4012610d48e2ed901a111684df47802780"
+  },
+  {
+   "id": "mariahcarey",
+   "name": "Mariah Carey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mariahcarey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 65604716,
+   "sha256": "6a3476fbf0858d4fc950e057eec99cca6b4f0d38242839881424ba021536313d",
+   "content_id": "0f74ee9dc336a8e556717343343e948b576b6dbe",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mariahcarey-v1/mariahcarey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mariahcarey.jpg",
+   "thumb_sha256": "e0e68078b6eb7e3c9e1dca72f9bba100fe91ccf374fc7b22115ddb12b25bcef2"
+  },
+  {
+   "id": "marigold",
+   "name": "Marigold",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit marigold (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 27545990,
+   "sha256": "a79aacb80e47a7c1be73b7ef98b88795caf2d562ce7d989d0d659691d8f1dcf1",
+   "content_id": "bd6653a7ca1bbd152ee7488e6d7a3681a7905746",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/marigold-v1/marigold.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/marigold.jpg",
+   "thumb_sha256": "36d299a578486b8de7f01b721f2e4d5bb71afd58dcfaa403c0a616da4fe19670"
+  },
+  {
+   "id": "maryjanewatson",
+   "name": "Mary Jane Watson",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit maryjanewatson (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34334214,
+   "sha256": "247ea21842b282897e9692057baebd59421d9fad505c7ea1da4e64fc37bc4b84",
+   "content_id": "89b1516c6206d7f95a328fe8e97c04f15b89a506",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/maryjanewatson-v1/maryjanewatson.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/maryjanewatson.jpg",
+   "thumb_sha256": "ad179917a9058c73a54292693a4e59ff36bf23e1beaa88aff7c1f7629535175c"
+  },
+  {
+   "id": "messi",
+   "name": "Messi",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit messi (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 40471859,
+   "sha256": "620f0eec9922ed055b617cc4b5ce312c7fa03aefdc4ab7351d10564bc0df3bab",
+   "content_id": "525845fdc322885c7c5f07600a505c80838312c8",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/messi-v1/messi.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/messi.jpg",
+   "thumb_sha256": "1be24aeb8837a4a750f3a63337d315e012b9e2c92d9213c8aeccb4ad3669ea8f"
+  },
+  {
+   "id": "motherofthornsdoja",
+   "name": "Mother of Thorns Doja",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit motherofthornsdoja (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30121134,
+   "sha256": "b39d0f7652e0e402c92ff56169cde5581a3327a4547c6a4131bfa5e8ffd6a000",
+   "content_id": "f1284d9aaeb85ac3c83d9f3528367c94232fd7b3",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/motherofthornsdoja-v1/motherofthornsdoja.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/motherofthornsdoja.jpg",
+   "thumb_sha256": "90c944f20abe3dc75b9fd583d8330d61344f11e40d605fe1e591255b0b039880"
+  },
+  {
+   "id": "mrsincredible",
+   "name": "Mrs. Incredible",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit mrsincredible (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 33919731,
+   "sha256": "a05b7199d797be0578216cf00d040609c795d55d2c26b018a54e9b97afeb66e5",
+   "content_id": "4dc5de1066d1d3503a2948b6b25876a5438d1e2b",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/mrsincredible-v1/mrsincredible.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/mrsincredible.jpg",
+   "thumb_sha256": "37df9afb8efdc8e5469b5f6c3d2cc06cff9163dfc6ee955705c063856e596568"
+  },
+  {
+   "id": "nathandrake",
+   "name": "Nathan Drake",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit nathandrake (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31027619,
+   "sha256": "6e918933a8b016fe2f7c622fd0d336b5edd3f5e50a6ccb1043a4221a8291b487",
+   "content_id": "4fc46dbb356c9234c2989f71c4c324317c3c6665",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/nathandrake-v1/nathandrake.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/nathandrake.jpg",
+   "thumb_sha256": "765ad0270a4b09d18d09e1e4c90458845be27194c7a8dd91e5ae8d664715ee98"
+  },
+  {
+   "id": "nick",
+   "name": "Nick",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit nick (jim)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 42872061,
+   "sha256": "060722012398c5b1db7da967f595c9d823f4cb61684c0f06658dd49687cad9f9",
+   "content_id": "9dd9a0c163fa0ae6753f06f27bf516ce9fad6ba1",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/nick-v1/nick.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/nick.jpg",
+   "thumb_sha256": "ea86c211da73aefa1807a8e7f0277422bef6ac0747dfca61760caf0d0e27b159"
+  },
+  {
+   "id": "psylocke",
+   "name": "Psylocke",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit psylocke (mom)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 42286195,
+   "sha256": "7ad5c24e6a1c8920abff719d291471a2e6b4a89f243d106211f745c0ab74e230",
+   "content_id": "954abcad5ea0bb78e798d81718376d885c9c6b80",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/psylocke-v1/psylocke.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/psylocke.jpg",
+   "thumb_sha256": "beb4eedf6f6f198e8cb74ad1a94e9ebbabe2764c4a4b263999c6139f17cba4cf"
+  },
+  {
+   "id": "raiden",
+   "name": "Raiden",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit raiden (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 44742201,
+   "sha256": "9be0a4b70eff76b9c2f911795d27e21567c1246d2ded8a37502de0b8182d843b",
+   "content_id": "701041beebe45764025778bbb48d2a36f075c79c",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/raiden-v1/raiden.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/raiden.jpg",
+   "thumb_sha256": "62451f6dc68fb2ab4451c8bee9260ba0b2f30be7580e8665fd74919242a4efb7"
+  },
+  {
+   "id": "rapprincessicespice",
+   "name": "Rap Princess Ice Spice",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rapprincessicespice (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38878561,
+   "sha256": "c7e05a7268905c284beda98eded5f187f3fe78afffad7cfde92f8b5827065017",
+   "content_id": "7c328cc5226b6336ae55afad483939dedb451358",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rapprincessicespice-v1/rapprincessicespice.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rapprincessicespice.jpg",
+   "thumb_sha256": "8860161a96dbc3fad0d5fdb5edc3867aaa7b2cb7045639f967198c77d70f9126"
+  },
+  {
+   "id": "redwayruby",
+   "name": "Redway Ruby",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit redwayruby (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 50279936,
+   "sha256": "16b29d35f60a69ba630ecd83a5df219025f82c795c5358108da6472de8d15a03",
+   "content_id": "77528bcd2ad3d908145295b949a666ccf24a876d",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/redwayruby-v1/redwayruby.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/redwayruby.jpg",
+   "thumb_sha256": "2acb32d42c5f4c94b2bc04eea77fc6bac44dd8beaeb3342bff2c40911b514bca"
+  },
+  {
+   "id": "rey",
+   "name": "Rey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34255516,
+   "sha256": "4d1c33ec1e78dbdf7df3e3dc47fbace5d8e857fa7abff5a31ff50b8a3b712088",
+   "content_id": "3fa26e781dfebcf59bd8a21431a2f1de4bf409b1",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rey-v1/rey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rey.jpg",
+   "thumb_sha256": "e842957949e7e64cbee765541104595d406621afe216c2bc1fcf1475a7f465b6"
+  },
+  {
+   "id": "rickgrimes",
+   "name": "Rick Grimes",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rickgrimes (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31990517,
+   "sha256": "f8daf7e8595ff905dcc5c030a3ecc6e2d92d7e7104db30835be32b0a56724388",
+   "content_id": "7e39ff912c14049a93afb8c7f9e5da6dd029f1cb",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rickgrimes-v1/rickgrimes.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rickgrimes.jpg",
+   "thumb_sha256": "e59d9b298937ad03823bf8d4f8f94fed7a393a1495dea2dbe20cc5fbf1dfbd7a"
+  },
+  {
+   "id": "roan",
+   "name": "Roan of Arc",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit roan (doc)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35988782,
+   "sha256": "67a641f3a72ae7d6dcdb84120211b4b3fb06b9dbfd65cc76a59cc0736dd682b2",
+   "content_id": "238c446d18e142f6310c0c3f25df6987b285ec0a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/roan-v1/roan.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/roan.jpg",
+   "thumb_sha256": "862b2523d556c51d42a05accab63063e2b021660ed47ef586389148afc230677"
+  },
+  {
+   "id": "rochelle",
+   "name": "Rochelle",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rochelle (karlee)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34689537,
+   "sha256": "483f18784985e7a175f41233c74fcfe98dadb634e8610a8819b3fbeb16ac1704",
+   "content_id": "0765d10553915422c6b64c093932e9ea97ead020",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rochelle-v1/rochelle.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rochelle.jpg",
+   "thumb_sha256": "0ffe5ba16ef936a15e032c1882e46deea4d910f41bfe9d810cb3a72bc8154bc9"
+  },
+  {
+   "id": "rogue",
+   "name": "Rogue",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rogue (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39284867,
+   "sha256": "918ff93a0d244722d155d1e7cd68ee8b12788ff600ce3000684a7a090e9b7c65",
+   "content_id": "ca3acd61f76b8641254ec00554bc7028cfb0cba1",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rogue-v1/rogue.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rogue.jpg",
+   "thumb_sha256": "52f3c80103979e3c605dbeaed11f4b9c8e192e3389f62485e1ea747af7ebe2f5"
+  },
+  {
+   "id": "rumi",
+   "name": "Rumi",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rumi (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 28578464,
+   "sha256": "dc55e6e4c6552b792b7d268d6bcec25cad63314b25ffb9817956968aa161e21f",
+   "content_id": "6afe27957e18fc9b4543e264d452380741812512",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rumi-v1/rumi.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rumi.jpg",
+   "thumb_sha256": "059760e7d48380e1cdf731f88e4f17f3271d0e214a65eafe1ab99ab4e5541193"
+  },
+  {
+   "id": "ryu",
+   "name": "Ryu",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit ryu (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35099218,
+   "sha256": "e276c61f2b404b95748ea5dc43cb51401bbc3c7a9fd84276655a72bb1ccdff63",
+   "content_id": "fcf6a506943a1ca3b86d3aa503e38f9bc809ec59",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ryu-v1/ryu.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ryu.jpg",
+   "thumb_sha256": "354edbee1f075c9d4716154832bb0dcb0294a412d0bd30510397209ab6351e15"
+  },
+  {
+   "id": "sabrinacarpenter",
+   "name": "Sabrina Carpenter",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit sabrinacarpenter (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38084506,
+   "sha256": "fad12d285eb1d3293f678c3ba1db8d8d0bbe041955b2fd9bc3cd683dc5b8406b",
+   "content_id": "47765dd81a1176b3d886493a50294efd4efcf699",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/sabrinacarpenter-v1/sabrinacarpenter.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/sabrinacarpenter.jpg",
+   "thumb_sha256": "c1c7eb4408984d229ef21608bbf0b5c5574d6cc9e7e8373daada40e6f5d82810"
+  },
+  {
+   "id": "sakura",
+   "name": "Sakura",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit sakura (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31882543,
+   "sha256": "8dea6687ddbbb709a1855bbe1d79e2c933c04353ce1222348ce73def05b20f7b",
+   "content_id": "33c1dd5a41bd83325bb296b388c524cdd23d4ce2",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/sakura-v1/sakura.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/sakura.jpg",
+   "thumb_sha256": "4723b731ff37ece0332f36957b28631b125d88de6dd5d79513ffb5982c745965"
+  },
+  {
+   "id": "santabrina",
+   "name": "Santa 'Brina",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit santabrina (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39380946,
+   "sha256": "45fd500ce62c8b97d3e4ad7c43979c6dcc4737da4020b4b8c76464293651c6e7",
+   "content_id": "fdd948329b923b6a1fdc071f9e8a7a8f3da08f7b",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/santabrina-v1/santabrina.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/santabrina.jpg",
+   "thumb_sha256": "eaa0e46b9ecb587c945953ab1c2e5c8dcde67d3a69234a8c2ce857a8d57e2c91"
+  },
+  {
+   "id": "santasuitmariah",
+   "name": "Santa Suit Mariah",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit santasuitmariah (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 48247460,
+   "sha256": "4e98efb3de561fdda892549e8c85e677005f9eb23b681e70ed73fffa6acc7b41",
+   "content_id": "924aa94931f8933309c7339b723c982c857200b4",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/santasuitmariah-v1/santasuitmariah.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/santasuitmariah.jpg",
+   "thumb_sha256": "e5d3aa0b39962a2c093e52c3c224aecd11fd87dccfd93299930e8c19c2de5fe5"
+  },
+  {
+   "id": "scifi",
+   "name": "Sci-fi Black",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit scifi (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39934578,
+   "sha256": "e8e3442d97d6f9912a818ed0f5671d29308aed0484984dea5dd8841ed8ae3f14",
+   "content_id": "23aac24b5057d2c5955653b91624aa8db06cf0b7",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/scifi-v1/scifi.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/scifi.jpg",
+   "thumb_sha256": "9633d83a4a8b7931af54544b49cdcec7427d0b308a3995b7d309701e311d2463"
+  },
+  {
+   "id": "scorpionmk3",
+   "name": "Scorpion (MK3)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit scorpionmk3 (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26958970,
+   "sha256": "f5b192e1cb55e19d166b703fe9356164b627921fdd44227a877a07cf2db2b9e1",
+   "content_id": "de729c42733a5a0f431eb7199d23133f680dc275",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/scorpionmk3-v1/scorpionmk3.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/scorpionmk3.jpg",
+   "thumb_sha256": "02733ab593b34fc5b2d10d8d0bb9446d565a93389a480067c2883d3e2c65b571"
+  },
+  {
+   "id": "shuri",
+   "name": "Shuri",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit shuri (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39088453,
+   "sha256": "4e6e9084ad07070dbac7507b97408d40a42a849a58650455d1f83d20eb3a837e",
+   "content_id": "0066736e3ecff8d6cf796b958a6800ce0508a262",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/shuri-v1/shuri.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/shuri.jpg",
+   "thumb_sha256": "dbe66a822cdac7750d59385c620f23a4d8944621dc54927861b62a983c42dee4"
+  },
+  {
+   "id": "snakeeyes",
+   "name": "Snake Eyes",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit snakeeyes (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 15886906,
+   "sha256": "7ac8b7c21deb7cb2edc5f47ccaf382a65aa0069874fcc6dc9377634e30231c5d",
+   "content_id": "8df2e66e0cc6193783f43f8e74fc2a0d4b9c0893",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/snakeeyes-v1/snakeeyes.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/snakeeyes.jpg",
+   "thumb_sha256": "ad07d20c4504c37be5bf59f636f76018551ffa3ff620e6a38b5fce83704e2797"
+  },
+  {
+   "id": "sofia",
+   "name": "Sofia",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit sofia (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 32404520,
+   "sha256": "0089a2f9731d21faf331b73398ce8646fd6d6f4b06c4d4481a45b101154b093d",
+   "content_id": "82e0efdfffedda7da76203ab3172e2b66094298e",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/sofia-v1/sofia.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/sofia.jpg",
+   "thumb_sha256": "8e31bf730d09f5974b01e24725d846f2e76be1c206e3562be7fa7b5963515e8c"
+  },
+  {
+   "id": "solidsnake",
+   "name": "Solid Snake",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit solidsnake (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 52703157,
+   "sha256": "5ea62b0d03f03b08a6057bb07667fbec4d2070a3ea700f0aae44fb09cc228496",
+   "content_id": "bf5b3a70e86e62e49c4e45c959832b347a97c910",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/solidsnake-v1/solidsnake.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/solidsnake.jpg",
+   "thumb_sha256": "5d44ecea188deff6ee5f070e61176b23fa7f9a9259b4ffda676f988e53ea3a85"
+  },
+  {
+   "id": "souroliviarodrigo",
+   "name": "SOUR Olivia Rodrigo",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit souroliviarodrigo (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31588079,
+   "sha256": "79457bcafd353e17b55f19a2abc8832150f62bae157001e43ece1e4d3a71089a",
+   "content_id": "a8cc3338efea6bd0d0a0448289c6103cdfb12387",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/souroliviarodrigo-v1/souroliviarodrigo.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/souroliviarodrigo.jpg",
+   "thumb_sha256": "cdbc1d3f97800e8736aade942f99b13d927d86e31e37df11f029e4991093e1f0"
+  },
+  {
+   "id": "spacefarerarianagrande",
+   "name": "Spacefarer Ariana Grande",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit spacefarerarianagrande (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 42371130,
+   "sha256": "51c342f5efc6929ddb850b5a5745ebe5eae5f46232fd35efc814fed6da0a7a98",
+   "content_id": "193ee8ecc9f4090a43cc3529dcc3dde2748908f8",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spacefarerarianagrande-v1/spacefarerarianagrande.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spacefarerarianagrande.jpg",
+   "thumb_sha256": "09ddb57ffcfcc3e86356d8d51d9dd9bfabd1844d8d14ed8f4be9f7b47ef27169"
+  },
+  {
+   "id": "spidergwen",
+   "name": "Spider-Gwen",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit spidergwen (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 27851334,
+   "sha256": "c6d01704171102bdc63dc828584faf7100f74318e35fdc1f1ca3e78d74fd5ebd",
+   "content_id": "ac04bdf457ad52e7dc614da103472a8471882cac",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidergwen-v1/spidergwen.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidergwen.jpg",
+   "thumb_sha256": "aa513092c2743504316541cfa4a3260d9d8bd23da0ab54ce4e48a93db8ddf8ff"
+  },
+  {
+   "id": "spidermanmilesmorales",
+   "name": "Spider-Man (Miles Morales)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit spidermanmilesmorales (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 25179736,
+   "sha256": "5da984f211951c517c4a6cbc20302632a52666dae9af6d651c888c8e6a6df9ca",
+   "content_id": "0ed3d49627a5e135d6d4a8f4291d939e235378bd",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidermanmilesmorales-v1/spidermanmilesmorales.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidermanmilesmorales.jpg",
+   "thumb_sha256": "d46c5b844a3ea7cde8a66f47c7cff5a61e8bcd57e6d434a526097b571ebf68b9"
+  },
+  {
+   "id": "spidermannoir",
+   "name": "Spider-Man Noir",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit spidermannoir (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 42876731,
+   "sha256": "43e963b45f113a2cc83487318697dccbf9c76749ecbca98626b16d859d66ea49",
+   "content_id": "2bb2a39a3ffbc60e5969b69ea4cbdf34f917a23a",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidermannoir-v1/spidermannoir.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidermannoir.jpg",
+   "thumb_sha256": "6aa67743e32afaaf1fe0b2a7159910d6b5d5a6879cca2f8f246d2d4c4068acb8"
+  },
+  {
+   "id": "spidey",
+   "name": "Spider-Man",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit spidey (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 22390292,
+   "sha256": "6123e99983117703611713fc4101d139bb0149a7d5715bcde033267c3bebbf9d",
+   "content_id": "ea48cda37f90b7f4cf3e7e969a28465794f46501",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidey-v1/spidey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidey.jpg",
+   "thumb_sha256": "6f4a662f75b20b5f3053083706cebb05c159666ee701b7132396761389ae6712"
+  },
+  {
+   "id": "stormtroopersamurai",
+   "name": "Stormtrooper Samurai",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit stormtroopersamurai (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35864974,
+   "sha256": "499b9175b3e125be6ce00679d9fdc15122d93f2776feee3b2f58ce1127d24353",
+   "content_id": "88c7e7c74db0c1d4105325be976cec0d8ffe541d",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/stormtroopersamurai-v1/stormtroopersamurai.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/stormtroopersamurai.jpg",
+   "thumb_sha256": "0268657fe86e29575f1a272cb2e94d4c8c5eab8e41a576227e40777fdffbf1c3"
+  },
+  {
+   "id": "thepunisher",
+   "name": "The Punisher",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit thepunisher (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35954684,
+   "sha256": "1b790f688b42ad1871b2f2a0a0e1b2d558fdf07a9c0d16028b5431b995b08466",
+   "content_id": "eec5438b9fbdb6cb17881cb77f5499191682f9a8",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/thepunisher-v1/thepunisher.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/thepunisher.jpg",
+   "thumb_sha256": "0a6f29a6fa318e49b4ed26ff25c2ed8dd68e33ecf462f1b4b624d5501492ff40"
+  },
+  {
+   "id": "tourreadysabrinacarpenter",
+   "name": "Tour-Ready Sabrina Carpenter",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit tourreadysabrinacarpenter (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 38679526,
+   "sha256": "a85385fcfd404b5e425c946551e54520c08929447a5fc349a3fc9e3d4783e195",
+   "content_id": "bb38c2598dd08ec8a9f2d0bd30625f587cfa93e7",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/tourreadysabrinacarpenter-v1/tourreadysabrinacarpenter.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/tourreadysabrinacarpenter.jpg",
+   "thumb_sha256": "0c4f8ca50632fbfba56803f49b90d6b333368e298577f37d3e8790a597333a39"
+  },
+  {
+   "id": "tracer",
+   "name": "Tracer",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit tracer (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 53144034,
+   "sha256": "106fe1fb6f0d32846d2057716c6490e09bc0bb2f07da6080cbec80277032672b",
+   "content_id": "d5184ff531355afefb16dfd8616c1fac0b2f09ea",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/tracer-v1/tracer.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/tracer.jpg",
+   "thumb_sha256": "7f18602a8618e276e3514db2998f99c26d0cd1fbc27c6b429ea94e807a1c7d36"
+  },
+  {
+   "id": "travisscott",
+   "name": "Travis Scott",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit travisscott (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35444482,
+   "sha256": "502df72dfca334e87b747bb8be667e0cebd57027631c97c185cab7b90a61531c",
+   "content_id": "270931f219573068488455c980eac238b07e0b5e",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/travisscott-v1/travisscott.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/travisscott.jpg",
+   "thumb_sha256": "b2c475cb064af896b499fc60920763d0c3bbf17baf365cf357fdba07302ea3c6"
+  },
+  {
+   "id": "trooper",
+   "name": "Stormtrooper",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit trooper (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 35233000,
+   "sha256": "2cf922df9010daf11025b43fb24cc0ae975f499d58835811b8c3b62137728d2a",
+   "content_id": "bcafd05396322f3e3e7e682e7adfd7ba9a275591",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/trooper-v1/trooper.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/trooper.jpg",
+   "thumb_sha256": "0e204ca48d4d9481d48e0e94ddfbb7860495f1996e51880204d77a23490b462d"
+  },
+  {
+   "id": "undertaker",
+   "name": "undertaker",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit undertaker (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 52992511,
+   "sha256": "61e4d5869e86afb883d230a31fbe3058ed01748d20517dee7e9a1811bf919947",
+   "content_id": "72d789c18664bc843adb02229267209af0dd75be",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/undertaker-v1/undertaker.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/undertaker.jpg",
+   "thumb_sha256": "6d60c136d5394bda366a25d994ed8ee66df9125c1844dea40223c98a525f6908"
+  },
+  {
+   "id": "undertaker_ring",
+   "name": "undertaker_ring",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit undertaker_ring (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 39710414,
+   "sha256": "6610573d64ede9bee689da998ec6b30eb2bfa3abe9e5de39fd9476c2395b081b",
+   "content_id": "14602bf1c4f35893d5f909f14c2e657d4ff99b58",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/undertaker_ring-v1/undertaker_ring.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/undertaker_ring.jpg",
+   "thumb_sha256": "f45dfa946ae4b974fdb541b6c4f9160aca62a83332a83e72cc353f18c5b7f27b"
+  },
+  {
+   "id": "v",
+   "name": "V",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit v (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 30621031,
+   "sha256": "8669759c06b0600bc1e9abf9c430edcf7655bc7567323c205512f64961a28851",
+   "content_id": "9d7161d657ac1520613e29d474a6cff36cdd81fa",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/v-v1/v.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/v.jpg",
+   "thumb_sha256": "cf3cd8034c92e7bd472814d17817b22deaed0b9d11eee09cb7a652f64e4b63b4"
+  },
+  {
+   "id": "warmachine",
+   "name": "War Machine",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit warmachine (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 52092669,
+   "sha256": "475333775d300cd2f9a8dc32023736f14f0e2a6b3e3bd2466563992006c86655",
+   "content_id": "e83d99b95fc0461a1bf8911bdcf139fc31eda7b0",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/warmachine-v1/warmachine.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/warmachine.jpg",
+   "thumb_sha256": "982c67dd9561c033b8aa0bef9a805b562b893292510265c79157073b13e5dc08"
+  },
+  {
+   "id": "wookieeteamleader",
+   "name": "Wookiee Team Leader",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit wookieeteamleader (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 34325367,
+   "sha256": "ac93456357aba150a0fe1cb13a87ba995717f40a5260d94bbf3a1f3873bc4c93",
+   "content_id": "005649345a2d511daa2b5a76af3205346d8ddf64",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/wookieeteamleader-v1/wookieeteamleader.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/wookieeteamleader.jpg",
+   "thumb_sha256": "cfd27eca853a85e1d91a15e80a15e6b6c589829e3d5c7d05d8aad489fbb50dfb"
+  },
+  {
+   "id": "yenneferofvengerberg",
+   "name": "Yennefer of Vengerberg",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit yenneferofvengerberg (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 56328246,
+   "sha256": "3b20d8d56d31eff8fe15494b17f2898a9013ce44c5415c4a5ac5317f08bc06dd",
+   "content_id": "6e78c84c1adddc5d3ccb0365ff24a542ea33512b",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/yenneferofvengerberg-v1/yenneferofvengerberg.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/yenneferofvengerberg.jpg",
+   "thumb_sha256": "573e675fd04c9472aed384184df55523e9c6e6c168acc1b6d8e68c5d919f8e91"
+  },
+  {
+   "id": "zoey",
+   "name": "Zoey",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit zoey (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 28350106,
+   "sha256": "1881e9bb009db47de3d3f693d7fecfdf5589cbe30c34379bae3056b201032849",
+   "content_id": "885417d0699d546f4c7080e63bc368a91383d1d9",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/zoey-v1/zoey.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/zoey.jpg",
+   "thumb_sha256": "2ccb884eae3af6cdcc87627dad7d858154b46a2ecae8ca421e31090b905d22f5"
+  },
+  {
+   "id": "zoeyl4d",
+   "name": "Zoey (L4D)",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit zoeyl4d (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 31513767,
+   "sha256": "54ae1b3ead599d599ba02d9b96d42a4f23ea18d964438a2ba0160ffed4a39311",
+   "content_id": "4d461d7a7d4d763e742e40a9000252b939eebd10",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/zoeyl4d-v1/zoeyl4d.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/zoeyl4d.jpg",
+   "thumb_sha256": "3d391837267b099bc2256e9f145264c83b3982584033ad7b5d22cfba9f30514e"
+  }
+ ]
 }
