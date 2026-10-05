@@ -4,7 +4,7 @@ Free add-ons for [b4bcoop](https://github.com/actuallydan/b4b-coop), the unoffic
 Blood. This repository holds the signed add-on list that b4bcoop's **Browse** tab shows, and the add-ons themselves
 (one GitHub release each).
 
-Only add-ons released under a public license are listed. The list is empty for now.
+Each add-on is listed with its license. Many are fan conversions marked "Private use": shared for free between friends, not for sale or redistribution.
 
 ## For players
 

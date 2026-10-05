@@ -1,3 +1,766 @@
 {
- "addons": []
+ "addons": [
+  {
+   "id": "2b-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "2B (any cleaner)"
+  },
+  {
+   "id": "aang",
+   "version": "1",
+   "license": "Private use",
+   "name": "Aang"
+  },
+  {
+   "id": "adamsmasher",
+   "version": "1",
+   "license": "Private use",
+   "name": "Adam Smasher"
+  },
+  {
+   "id": "agony",
+   "version": "1",
+   "license": "Private use",
+   "name": "Agony"
+  },
+  {
+   "id": "ahsokatano",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ahsoka Tano"
+  },
+  {
+   "id": "alanwake",
+   "version": "1",
+   "license": "Private use",
+   "name": "Alan Wake"
+  },
+  {
+   "id": "anakinskywalker",
+   "version": "1",
+   "license": "Private use",
+   "name": "Anakin Skywalker"
+  },
+  {
+   "id": "apprenticerey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Apprentice Rey"
+  },
+  {
+   "id": "aquaman",
+   "version": "1",
+   "license": "Private use",
+   "name": "Aquaman"
+  },
+  {
+   "id": "arcanevi",
+   "version": "1",
+   "license": "Private use",
+   "name": "Arcane Vi"
+  },
+  {
+   "id": "arianagrande",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ariana Grande"
+  },
+  {
+   "id": "ash-williams-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ash Williams (any cleaner)"
+  },
+  {
+   "id": "atomeve",
+   "version": "1",
+   "license": "Private use",
+   "name": "Atom Eve"
+  },
+  {
+   "id": "batman-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "Batman (any cleaner)"
+  },
+  {
+   "id": "beckylynch",
+   "version": "1",
+   "license": "Private use",
+   "name": "Becky Lynch"
+  },
+  {
+   "id": "bill",
+   "version": "1",
+   "license": "Private use",
+   "name": "Bill"
+  },
+  {
+   "id": "blanka",
+   "version": "1",
+   "license": "Private use",
+   "name": "Blanka"
+  },
+  {
+   "id": "brunomars",
+   "version": "1",
+   "license": "Private use",
+   "name": "Bruno Mars"
+  },
+  {
+   "id": "captainamerica",
+   "version": "1",
+   "license": "Private use",
+   "name": "Captain America"
+  },
+  {
+   "id": "carnage",
+   "version": "1",
+   "license": "Private use",
+   "name": "Carnage"
+  },
+  {
+   "id": "charlotte",
+   "version": "1",
+   "license": "Private use",
+   "name": "Charlotte"
+  },
+  {
+   "id": "chief2",
+   "version": "1",
+   "license": "Private use",
+   "name": "Master Chief Infinite"
+  },
+  {
+   "id": "chrisredfield",
+   "version": "1",
+   "license": "Private use",
+   "name": "Chris Redfield"
+  },
+  {
+   "id": "chunli",
+   "version": "1",
+   "license": "Private use",
+   "name": "Chun-Li"
+  },
+  {
+   "id": "ciri",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ciri"
+  },
+  {
+   "id": "claireredfield",
+   "version": "1",
+   "license": "Private use",
+   "name": "Claire Redfield"
+  },
+  {
+   "id": "coach",
+   "version": "1",
+   "license": "Private use",
+   "name": "Coach"
+  },
+  {
+   "id": "darthvader",
+   "version": "1",
+   "license": "Private use",
+   "name": "Darth Vader"
+  },
+  {
+   "id": "daryldixon",
+   "version": "1",
+   "license": "Private use",
+   "name": "Daryl Dixon"
+  },
+  {
+   "id": "davidbeckham",
+   "version": "1",
+   "license": "Private use",
+   "name": "David Beckham"
+  },
+  {
+   "id": "deadmau5",
+   "version": "1",
+   "license": "Private use",
+   "name": "deadmau5"
+  },
+  {
+   "id": "dojacat",
+   "version": "1",
+   "license": "Private use",
+   "name": "Doja Cat"
+  },
+  {
+   "id": "ellenripley",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ellen Ripley"
+  },
+  {
+   "id": "ellis",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ellis"
+  },
+  {
+   "id": "fiona-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "Fiona (any cleaner)"
+  },
+  {
+   "id": "fn501sttrooper",
+   "version": "1",
+   "license": "Private use",
+   "name": "501st Trooper"
+  },
+  {
+   "id": "francis",
+   "version": "1",
+   "license": "Private use",
+   "name": "Francis"
+  },
+  {
+   "id": "frank-west-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "Frank West (any cleaner)"
+  },
+  {
+   "id": "frieza",
+   "version": "1",
+   "license": "Private use",
+   "name": "Frieza"
+  },
+  {
+   "id": "gamora",
+   "version": "1",
+   "license": "Private use",
+   "name": "Gamora"
+  },
+  {
+   "id": "geraltofrivia",
+   "version": "1",
+   "license": "Private use",
+   "name": "Geralt of Rivia"
+  },
+  {
+   "id": "goldenmira",
+   "version": "1",
+   "license": "Private use",
+   "name": "Golden Mira"
+  },
+  {
+   "id": "goldenrumi",
+   "version": "1",
+   "license": "Private use",
+   "name": "Golden Rumi"
+  },
+  {
+   "id": "goldenzoey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Golden Zoey"
+  },
+  {
+   "id": "grace",
+   "version": "1",
+   "license": "Private use",
+   "name": "Grace Ashcroft"
+  },
+  {
+   "id": "graceashcroft",
+   "version": "1",
+   "license": "Private use",
+   "name": "Grace Ashcroft"
+  },
+  {
+   "id": "greenrootsbillie",
+   "version": "1",
+   "license": "Private use",
+   "name": "Green Roots Billie"
+  },
+  {
+   "id": "guile",
+   "version": "1",
+   "license": "Private use",
+   "name": "Guile"
+  },
+  {
+   "id": "haze",
+   "version": "1",
+   "license": "Private use",
+   "name": "Haze"
+  },
+  {
+   "id": "heman",
+   "version": "1",
+   "license": "Private use",
+   "name": "He-Man"
+  },
+  {
+   "id": "icespice",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ice Spice"
+  },
+  {
+   "id": "iconickimkardashian",
+   "version": "1",
+   "license": "Private use",
+   "name": "Iconic Kim Kardashian"
+  },
+  {
+   "id": "ironman",
+   "version": "1",
+   "license": "Private use",
+   "name": "Iron Man"
+  },
+  {
+   "id": "isaacclarke",
+   "version": "1",
+   "license": "Private use",
+   "name": "Isaac Clarke"
+  },
+  {
+   "id": "jameshetfield",
+   "version": "1",
+   "license": "Private use",
+   "name": "James Hetfield"
+  },
+  {
+   "id": "johncena",
+   "version": "1",
+   "license": "Private use",
+   "name": "John Cena"
+  },
+  {
+   "id": "johnwick",
+   "version": "1",
+   "license": "Private use",
+   "name": "John Wick"
+  },
+  {
+   "id": "kirkhammett",
+   "version": "1",
+   "license": "Private use",
+   "name": "Kirk Hammett"
+  },
+  {
+   "id": "korra",
+   "version": "1",
+   "license": "Private use",
+   "name": "Korra"
+  },
+  {
+   "id": "kyloren",
+   "version": "1",
+   "license": "Private use",
+   "name": "Kylo Ren"
+  },
+  {
+   "id": "lara-croft-any",
+   "version": "1",
+   "license": "Private use",
+   "name": "Lara Croft (any cleaner)"
+  },
+  {
+   "id": "laracroft",
+   "version": "1",
+   "license": "Private use",
+   "name": "Lara Croft"
+  },
+  {
+   "id": "laufey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Laufey"
+  },
+  {
+   "id": "lbc93dogg",
+   "version": "1",
+   "license": "Private use",
+   "name": "LBC '93 Dogg"
+  },
+  {
+   "id": "leon",
+   "version": "1",
+   "license": "Private use",
+   "name": "Leon S. Kennedy"
+  },
+  {
+   "id": "leonardo",
+   "version": "1",
+   "license": "Private use",
+   "name": "Leonardo"
+  },
+  {
+   "id": "louis",
+   "version": "1",
+   "license": "Private use",
+   "name": "Louis"
+  },
+  {
+   "id": "lovergirloliviarodrigo",
+   "version": "1",
+   "license": "Private use",
+   "name": "Lover Girl Olivia Rodrigo"
+  },
+  {
+   "id": "macewindu",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mace Windu"
+  },
+  {
+   "id": "mandalorianwarrior",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior"
+  },
+  {
+   "id": "mandalorianwarriorhonor",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Honor)"
+  },
+  {
+   "id": "mandalorianwarriorhonorgreen",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Honor Green)"
+  },
+  {
+   "id": "mandalorianwarriorhonoryellow",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Honor Yellow)"
+  },
+  {
+   "id": "mandalorianwarriorloyalty",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Loyalty)"
+  },
+  {
+   "id": "mandalorianwarriorloyaltyblue",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Loyalty Blue)"
+  },
+  {
+   "id": "mandalorianwarriorloyaltygold",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian Warrior (Loyalty Gold)"
+  },
+  {
+   "id": "mando",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mandalorian"
+  },
+  {
+   "id": "marcusfenix",
+   "version": "1",
+   "license": "Private use",
+   "name": "Marcus Fenix"
+  },
+  {
+   "id": "mariahcarey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mariah Carey"
+  },
+  {
+   "id": "marigold",
+   "version": "1",
+   "license": "Private use",
+   "name": "Marigold"
+  },
+  {
+   "id": "maryjanewatson",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mary Jane Watson"
+  },
+  {
+   "id": "messi",
+   "version": "1",
+   "license": "Private use",
+   "name": "Messi"
+  },
+  {
+   "id": "motherofthornsdoja",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mother of Thorns Doja"
+  },
+  {
+   "id": "mrsincredible",
+   "version": "1",
+   "license": "Private use",
+   "name": "Mrs. Incredible"
+  },
+  {
+   "id": "nathandrake",
+   "version": "1",
+   "license": "Private use",
+   "name": "Nathan Drake"
+  },
+  {
+   "id": "nick",
+   "version": "1",
+   "license": "Private use",
+   "name": "Nick"
+  },
+  {
+   "id": "psylocke",
+   "version": "1",
+   "license": "Private use",
+   "name": "Psylocke"
+  },
+  {
+   "id": "raiden",
+   "version": "1",
+   "license": "Private use",
+   "name": "Raiden"
+  },
+  {
+   "id": "rapprincessicespice",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rap Princess Ice Spice"
+  },
+  {
+   "id": "redwayruby",
+   "version": "1",
+   "license": "Private use",
+   "name": "Redway Ruby"
+  },
+  {
+   "id": "rey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rey"
+  },
+  {
+   "id": "rickgrimes",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rick Grimes"
+  },
+  {
+   "id": "roan",
+   "version": "1",
+   "license": "Private use",
+   "name": "Roan of Arc"
+  },
+  {
+   "id": "rochelle",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rochelle"
+  },
+  {
+   "id": "rogue",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rogue"
+  },
+  {
+   "id": "rumi",
+   "version": "1",
+   "license": "Private use",
+   "name": "Rumi"
+  },
+  {
+   "id": "ryu",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ryu"
+  },
+  {
+   "id": "sabrinacarpenter",
+   "version": "1",
+   "license": "Private use",
+   "name": "Sabrina Carpenter"
+  },
+  {
+   "id": "sakura",
+   "version": "1",
+   "license": "Private use",
+   "name": "Sakura"
+  },
+  {
+   "id": "santabrina",
+   "version": "1",
+   "license": "Private use",
+   "name": "Santa 'Brina"
+  },
+  {
+   "id": "santasuitmariah",
+   "version": "1",
+   "license": "Private use",
+   "name": "Santa Suit Mariah"
+  },
+  {
+   "id": "scifi",
+   "version": "1",
+   "license": "Private use",
+   "name": "Sci-fi Black"
+  },
+  {
+   "id": "scorpionmk3",
+   "version": "1",
+   "license": "Private use",
+   "name": "Scorpion (MK3)"
+  },
+  {
+   "id": "shuri",
+   "version": "1",
+   "license": "Private use",
+   "name": "Shuri"
+  },
+  {
+   "id": "snakeeyes",
+   "version": "1",
+   "license": "Private use",
+   "name": "Snake Eyes"
+  },
+  {
+   "id": "sofia",
+   "version": "1",
+   "license": "Private use",
+   "name": "Sofia"
+  },
+  {
+   "id": "solidsnake",
+   "version": "1",
+   "license": "Private use",
+   "name": "Solid Snake"
+  },
+  {
+   "id": "souroliviarodrigo",
+   "version": "1",
+   "license": "Private use",
+   "name": "SOUR Olivia Rodrigo"
+  },
+  {
+   "id": "spacefarerarianagrande",
+   "version": "1",
+   "license": "Private use",
+   "name": "Spacefarer Ariana Grande"
+  },
+  {
+   "id": "spidergwen",
+   "version": "1",
+   "license": "Private use",
+   "name": "Spider-Gwen"
+  },
+  {
+   "id": "spidermanmilesmorales",
+   "version": "1",
+   "license": "Private use",
+   "name": "Spider-Man (Miles Morales)"
+  },
+  {
+   "id": "spidermannoir",
+   "version": "1",
+   "license": "Private use",
+   "name": "Spider-Man Noir"
+  },
+  {
+   "id": "spidey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Spider-Man"
+  },
+  {
+   "id": "stormtroopersamurai",
+   "version": "1",
+   "license": "Private use",
+   "name": "Stormtrooper Samurai"
+  },
+  {
+   "id": "thepunisher",
+   "version": "1",
+   "license": "Private use",
+   "name": "The Punisher"
+  },
+  {
+   "id": "tourreadysabrinacarpenter",
+   "version": "1",
+   "license": "Private use",
+   "name": "Tour-Ready Sabrina Carpenter"
+  },
+  {
+   "id": "tracer",
+   "version": "1",
+   "license": "Private use",
+   "name": "Tracer"
+  },
+  {
+   "id": "travisscott",
+   "version": "1",
+   "license": "Private use",
+   "name": "Travis Scott"
+  },
+  {
+   "id": "trooper",
+   "version": "1",
+   "license": "Private use",
+   "name": "Stormtrooper"
+  },
+  {
+   "id": "undertaker",
+   "version": "1",
+   "license": "Private use",
+   "name": "undertaker"
+  },
+  {
+   "id": "undertaker_ring",
+   "version": "1",
+   "license": "Private use",
+   "name": "undertaker_ring"
+  },
+  {
+   "id": "v",
+   "version": "1",
+   "license": "Private use",
+   "name": "V"
+  },
+  {
+   "id": "warmachine",
+   "version": "1",
+   "license": "Private use",
+   "name": "War Machine"
+  },
+  {
+   "id": "wookieeteamleader",
+   "version": "1",
+   "license": "Private use",
+   "name": "Wookiee Team Leader"
+  },
+  {
+   "id": "yenneferofvengerberg",
+   "version": "1",
+   "license": "Private use",
+   "name": "Yennefer of Vengerberg"
+  },
+  {
+   "id": "zoey",
+   "version": "1",
+   "license": "Private use",
+   "name": "Zoey"
+  },
+  {
+   "id": "zoeyl4d",
+   "version": "1",
+   "license": "Private use",
+   "name": "Zoey (L4D)"
+  }
+ ]
 }

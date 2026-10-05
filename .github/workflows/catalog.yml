@@ -58,7 +58,7 @@ jobs:
         run: |
           set -euo pipefail
           # shop-catalog.py reads paks/<id>.pak and thumbs/<thumb> next to the manifest
-          python3 .b4b-coop/tools/shop-catalog.py build entries.json -o "$RUNNER_TEMP/catalog.json"
+          python3 .b4b-coop/tools/shop-catalog.py build entries.json --allow-license "Private use" -o "$RUNNER_TEMP/catalog.json"
           if [[ -f catalog.json && -f catalog.json.sig && "${{ github.event_name }}" != workflow_dispatch ]] &&
              cmp -s <(jq -S .addons catalog.json) <(jq -S .addons "$RUNNER_TEMP/catalog.json"); then
             echo "The add-on list is unchanged; nothing to publish."
