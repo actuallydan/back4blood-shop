@@ -1,6 +1,6 @@
 {
  "b4bcoop-shop": 1,
- "updated": "2026-10-06",
+ "updated": "2026-10-11",
  "addons": [
   {
    "id": "2b-any",
@@ -681,27 +681,6 @@
    "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ellis-v1/ellis.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ellis.jpg",
    "thumb_sha256": "7eca5655b9cff3984d9f80e8de8c743592efef0ca65fb4022be2dd2cb8522bab"
-  },
-  {
-   "id": "fiona-any",
-   "name": "Fiona (any cleaner)",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit fiona_01 (doc)",
-    "outfit fiona_02 (doc)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 40391043,
-   "sha256": "3102f9722485098cc20e17020a13ef714f9d61e43e563f18ad053316774e2449",
-   "content_id": "db0111756913f6abffb7055c3ded54c136847ac3",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/fiona-any-v1/fiona-any.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/fiona-any.jpg",
-   "thumb_sha256": "13402c9c24c8683638751bbc7d61f37d9c097b1853bfc660628cc9465626a04b"
   },
   {
    "id": "fn501sttrooper",
@@ -2542,6 +2521,126 @@
    "url": "https://github.com/actuallydan/back4blood-shop/releases/download/zoeyl4d-v1/zoeyl4d.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/zoeyl4d.jpg",
    "thumb_sha256": "3d391837267b099bc2256e9f145264c83b3982584033ad7b5d22cfba9f30514e"
+  },
+  {
+   "id": "adawong",
+   "name": "Ada Wong",
+   "author": "rogeriofsalves1 (Sketchfab)",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit adawong (karlee)"
+   ],
+   "replaces": [],
+   "description": "Based on \"Ada remake 4\" (https://sketchfab.com/3d-models/ada-remake-4-fd381890e4574ed8a3e7f523e66351b0) by rogeriofsalves1, licensed under CC-BY-4.0.",
+   "size": 78566240,
+   "sha256": "3326a7005820435d7be2eb27b6ec9945f32ed381dbfe9518aa61c1950a3dd1ba",
+   "content_id": "2cea10ca050f84b619f6dc71049a809e96e64e1d",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/adawong-v1/adawong.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/adawong.jpg",
+   "thumb_sha256": "902ae02fdb8c0656baa9f6786bfde7048ba6960bca778021d16144bdda514c8f"
+  },
+  {
+   "id": "rangerblue",
+   "name": "Blue Ranger",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rangerblue (walker)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 6200731,
+   "sha256": "dd8e946f185aa49fa0bc23f68b878d048758971543a2fbd87f501ffef1a2b88f",
+   "content_id": "f6e6fbd28219f0dc61a9b55fd77a284707a59600",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangerblue-v1/rangerblue.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangerblue.jpg",
+   "thumb_sha256": "9fe5f55ec000278a4fa3958a2b60c93279ea9d13e7d217bd5e8768fb98f2b978"
+  },
+  {
+   "id": "rangergreen",
+   "name": "Green Ranger",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rangergreen (evangelo)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 2598298,
+   "sha256": "abb6a9f0d9a3caa83b81e5d9e02396b4c580654a89b59805f80a7168be2c5707",
+   "content_id": "a01ebd0fe83da71051748410f6ef5fb67cbe7836",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangergreen-v1/rangergreen.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangergreen.jpg",
+   "thumb_sha256": "89109d60eec0947b8b47d11010530922158c761f59216007c7ad3d94a15df675"
+  },
+  {
+   "id": "rangerpink",
+   "name": "Pink Ranger",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rangerpink (holly)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 6519747,
+   "sha256": "5e0f6f8ac0ad6727f40fd47441350ce5494ea943210be3925cfcae14ffcd6c75",
+   "content_id": "c3d00a28bb9bfef5beb10053b07f81cf38716198",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangerpink-v1/rangerpink.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangerpink.jpg",
+   "thumb_sha256": "be11716115d1b3636501110d70922bd99beaead0a193aa64ed6d67e00a7b6766"
+  },
+  {
+   "id": "rangeryellow",
+   "name": "Yellow Ranger",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rangeryellow (doc)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 7652628,
+   "sha256": "8d8172e6431fcb6960185af03d96bd13031f8e724a4a3a635b287669caedce82",
+   "content_id": "c8dc3be3f61d4a02e36c9db67ea98fb1610ce018",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangeryellow-v1/rangeryellow.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangeryellow.jpg",
+   "thumb_sha256": "72c2c0444b280ca86ca32a2a4611f79cd62b05c755c713625dc0579b15204bb0"
+  },
+  {
+   "id": "rangerwhite",
+   "name": "White Ranger",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit rangerwhite (jim)"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 2811470,
+   "sha256": "a89514b980602ef17f3569f6fb744ec51fd954966c3e9f6686298eb361bf3b21",
+   "content_id": "7833bfc9d51f098fb2d2cb1f5a10cc00d80de204",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangerwhite-v1/rangerwhite.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangerwhite.jpg",
+   "thumb_sha256": "9f34f9ade2e870e6f27dd68b8ed23b9ea24d871c6988eb056f250bf34e9da02e"
   }
  ]
 }
