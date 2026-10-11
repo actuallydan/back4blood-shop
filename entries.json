@@ -888,6 +888,50 @@
    "license": "Private use",
    "name": "Zoey (L4D)",
    "thumb": "zoeyl4d.jpg"
+  },
+  {
+   "id": "adawong",
+   "version": "1",
+   "license": "Private use",
+   "name": "Ada Wong",
+   "thumb": "adawong.jpg",
+   "author": "rogeriofsalves1 (Sketchfab)",
+   "description": "Based on \"Ada remake 4\" (https://sketchfab.com/3d-models/ada-remake-4-fd381890e4574ed8a3e7f523e66351b0) by rogeriofsalves1, licensed under CC-BY-4.0."
+  },
+  {
+   "id": "rangerblue",
+   "version": "1",
+   "license": "Private use",
+   "name": "Blue Ranger",
+   "thumb": "rangerblue.jpg"
+  },
+  {
+   "id": "rangergreen",
+   "version": "1",
+   "license": "Private use",
+   "name": "Green Ranger",
+   "thumb": "rangergreen.jpg"
+  },
+  {
+   "id": "rangerpink",
+   "version": "1",
+   "license": "Private use",
+   "name": "Pink Ranger",
+   "thumb": "rangerpink.jpg"
+  },
+  {
+   "id": "rangeryellow",
+   "version": "1",
+   "license": "Private use",
+   "name": "Yellow Ranger",
+   "thumb": "rangeryellow.jpg"
+  },
+  {
+   "id": "rangerwhite",
+   "version": "1",
+   "license": "Private use",
+   "name": "White Ranger",
+   "thumb": "rangerwhite.jpg"
   }
  ]
 }
