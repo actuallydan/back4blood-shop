@@ -4,7 +4,7 @@
    "id": "2b-any",
    "version": "1",
    "license": "Private use",
-   "name": "2B (any cleaner)",
+   "name": "2B",
    "thumb": "2b-any.jpg"
   },
   {
@@ -81,7 +81,7 @@
    "id": "ash-williams-any",
    "version": "1",
    "license": "Private use",
-   "name": "Ash Williams (any cleaner)",
+   "name": "Ash Williams",
    "thumb": "ash-williams-any.jpg"
   },
   {
@@ -95,7 +95,7 @@
    "id": "batman-any",
    "version": "1",
    "license": "Private use",
-   "name": "Batman (any cleaner)",
+   "name": "Batman",
    "thumb": "batman-any.jpg"
   },
   {
@@ -256,7 +256,7 @@
    "id": "frank-west-any",
    "version": "1",
    "license": "Private use",
-   "name": "Frank West (any cleaner)",
+   "name": "Frank West",
    "thumb": "frank-west-any.jpg"
   },
   {
@@ -410,7 +410,7 @@
    "id": "lara-croft-any",
    "version": "1",
    "license": "Private use",
-   "name": "Lara Croft (any cleaner)",
+   "name": "Lara Croft (Dodylectable)",
    "thumb": "lara-croft-any.jpg"
   },
   {
@@ -854,7 +854,7 @@
    "name": "Ada Wong",
    "thumb": "adawong.jpg",
    "author": "rogeriofsalves1 (Sketchfab)",
-   "description": "Based on \"Ada remake 4\" (https://sketchfab.com/3d-models/ada-remake-4-fd381890e4574ed8a3e7f523e66351b0) by rogeriofsalves1, licensed under CC-BY-4.0."
+   "description": "Model \"Ada remake 4\" by rogeriofsalves1 (Sketchfab), CC BY 4.0."
   },
   {
    "id": "rangerblue",

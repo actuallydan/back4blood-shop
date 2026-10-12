@@ -23,7 +23,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  B4B_COOP_REF: 5d3a6fc569c7d673a162122750043e883ed62ddf   # actuallydan/b4b-coop: tools/shop-catalog.py + modkit/
+  B4B_COOP_REF: 6a897261ad01e431c9e78006c5aeb98f7741a3e9   # actuallydan/b4b-coop: tools/shop-catalog.py + modkit/
 
 jobs:
   catalog:
