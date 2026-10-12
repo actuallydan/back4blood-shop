@@ -1,6 +1,6 @@
 {
  "b4bcoop-shop": 1,
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "addons": [
   {
    "id": "2b-any",
@@ -881,26 +881,6 @@
    "url": "https://github.com/actuallydan/back4blood-shop/releases/download/grace-v1/grace.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/grace.jpg",
    "thumb_sha256": "07beeabaabdc61dde14bc2b99b1f3d297df8e599ce80ea0d99bee4ef44989182"
-  },
-  {
-   "id": "graceashcroft",
-   "name": "Grace Ashcroft",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit graceashcroft (holly)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 39212035,
-   "sha256": "e683049099c535d10f4ff86e821176b970e26512d9a4f9fc0f976fbdfe044820",
-   "content_id": "0a83107f80ac70c5ee7c925e2c90bce076d414fb",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/graceashcroft-v1/graceashcroft.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/graceashcroft.jpg",
-   "thumb_sha256": "aff6f9e2f42e54a77b66951eacdbf45c509f08fe7ae388dd439282cc999cb536"
   },
   {
    "id": "greenrootsbillie",
