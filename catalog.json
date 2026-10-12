@@ -4,14 +4,14 @@
  "addons": [
   {
    "id": "2b-any",
-   "name": "2B (any cleaner)",
+   "name": "2B",
    "author": "",
    "license": "Private use",
    "version": "1",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit twob (mom)"
+    "outfit twob"
    ],
    "replaces": [],
    "description": "",
@@ -31,7 +31,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit aang (walker)"
+    "outfit aang"
    ],
    "replaces": [],
    "description": "",
@@ -51,7 +51,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit adamsmasher (walker)"
+    "outfit adamsmasher"
    ],
    "replaces": [],
    "description": "",
@@ -71,7 +71,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit agony (holly)"
+    "outfit agony"
    ],
    "replaces": [],
    "description": "",
@@ -91,7 +91,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ahsokatano (holly)"
+    "outfit ahsokatano"
    ],
    "replaces": [],
    "description": "",
@@ -111,7 +111,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit alanwake (walker)"
+    "outfit alanwake"
    ],
    "replaces": [],
    "description": "",
@@ -131,7 +131,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit anakinskywalker (walker)"
+    "outfit anakinskywalker"
    ],
    "replaces": [],
    "description": "",
@@ -151,7 +151,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit apprenticerey (holly)"
+    "outfit apprenticerey"
    ],
    "replaces": [],
    "description": "",
@@ -171,7 +171,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit aquaman (walker)"
+    "outfit aquaman"
    ],
    "replaces": [],
    "description": "",
@@ -191,7 +191,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit arcanevi (holly)"
+    "outfit arcanevi"
    ],
    "replaces": [],
    "description": "",
@@ -211,7 +211,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit arianagrande (holly)"
+    "outfit arianagrande"
    ],
    "replaces": [],
    "description": "",
@@ -224,14 +224,14 @@
   },
   {
    "id": "ash-williams-any",
-   "name": "Ash Williams (any cleaner)",
+   "name": "Ash Williams",
    "author": "",
    "license": "Private use",
    "version": "1",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ash (dan)"
+    "outfit ash"
    ],
    "replaces": [],
    "description": "",
@@ -251,7 +251,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit atomeve (holly)"
+    "outfit atomeve"
    ],
    "replaces": [],
    "description": "",
@@ -264,14 +264,14 @@
   },
   {
    "id": "batman-any",
-   "name": "Batman (any cleaner)",
+   "name": "Batman",
    "author": "",
    "license": "Private use",
    "version": "1",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit batman (jim)"
+    "outfit batman"
    ],
    "replaces": [],
    "description": "",
@@ -291,7 +291,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit beckylynch (holly)"
+    "outfit beckylynch"
    ],
    "replaces": [],
    "description": "",
@@ -311,7 +311,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit bill (heng)"
+    "outfit bill"
    ],
    "replaces": [],
    "description": "",
@@ -331,7 +331,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit blanka (hoffman)"
+    "outfit blanka"
    ],
    "replaces": [],
    "description": "",
@@ -351,7 +351,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit brunomars (walker)"
+    "outfit brunomars"
    ],
    "replaces": [],
    "description": "",
@@ -371,7 +371,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit captainamerica (walker)"
+    "outfit captainamerica"
    ],
    "replaces": [],
    "description": "",
@@ -391,7 +391,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit carnage (walker)"
+    "outfit carnage"
    ],
    "replaces": [],
    "description": "",
@@ -411,7 +411,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit charlotte (holly)"
+    "outfit charlotte"
    ],
    "replaces": [],
    "description": "",
@@ -431,7 +431,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit chief2 (hoffman)"
+    "outfit chief2"
    ],
    "replaces": [],
    "description": "",
@@ -451,7 +451,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit chrisredfield (walker)"
+    "outfit chrisredfield"
    ],
    "replaces": [],
    "description": "",
@@ -471,7 +471,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit chunli (holly)"
+    "outfit chunli"
    ],
    "replaces": [],
    "description": "",
@@ -491,7 +491,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ciri (holly)"
+    "outfit ciri"
    ],
    "replaces": [],
    "description": "",
@@ -511,7 +511,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit claireredfield (holly)"
+    "outfit claireredfield"
    ],
    "replaces": [],
    "description": "",
@@ -531,7 +531,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit coach (hoffman)"
+    "outfit coach"
    ],
    "replaces": [],
    "description": "",
@@ -551,7 +551,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit darthvader (walker)"
+    "outfit darthvader"
    ],
    "replaces": [],
    "description": "",
@@ -571,7 +571,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit daryldixon (walker)"
+    "outfit daryldixon"
    ],
    "replaces": [],
    "description": "",
@@ -591,7 +591,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit davidbeckham (walker)"
+    "outfit davidbeckham"
    ],
    "replaces": [],
    "description": "",
@@ -611,7 +611,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit deadmau5 (walker)"
+    "outfit deadmau5"
    ],
    "replaces": [],
    "description": "",
@@ -631,7 +631,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit dojacat (holly)"
+    "outfit dojacat"
    ],
    "replaces": [],
    "description": "",
@@ -651,7 +651,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ellenripley (holly)"
+    "outfit ellenripley"
    ],
    "replaces": [],
    "description": "",
@@ -671,7 +671,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ellis (evangelo)"
+    "outfit ellis"
    ],
    "replaces": [],
    "description": "",
@@ -691,7 +691,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit fn501sttrooper (walker)"
+    "outfit fn501sttrooper"
    ],
    "replaces": [],
    "description": "",
@@ -711,7 +711,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit francis (walker)"
+    "outfit francis"
    ],
    "replaces": [],
    "description": "",
@@ -724,14 +724,14 @@
   },
   {
    "id": "frank-west-any",
-   "name": "Frank West (any cleaner)",
+   "name": "Frank West",
    "author": "",
    "license": "Private use",
    "version": "1",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit frank (evangelo)"
+    "outfit frank"
    ],
    "replaces": [],
    "description": "",
@@ -751,7 +751,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit frieza (walker)"
+    "outfit frieza"
    ],
    "replaces": [],
    "description": "",
@@ -771,7 +771,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit gamora (holly)"
+    "outfit gamora"
    ],
    "replaces": [],
    "description": "",
@@ -791,7 +791,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit geraltofrivia (walker)"
+    "outfit geraltofrivia"
    ],
    "replaces": [],
    "description": "",
@@ -811,7 +811,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit goldenmira (holly)"
+    "outfit goldenmira"
    ],
    "replaces": [],
    "description": "",
@@ -831,7 +831,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit goldenrumi (holly)"
+    "outfit goldenrumi"
    ],
    "replaces": [],
    "description": "",
@@ -851,7 +851,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit goldenzoey (holly)"
+    "outfit goldenzoey"
    ],
    "replaces": [],
    "description": "",
@@ -871,7 +871,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit grace (karlee)"
+    "outfit grace"
    ],
    "replaces": [],
    "description": "",
@@ -891,7 +891,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit greenrootsbillie (holly)"
+    "outfit greenrootsbillie"
    ],
    "replaces": [],
    "description": "",
@@ -911,7 +911,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit guile (walker)"
+    "outfit guile"
    ],
    "replaces": [],
    "description": "",
@@ -931,7 +931,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit haze (holly)"
+    "outfit haze"
    ],
    "replaces": [],
    "description": "",
@@ -951,7 +951,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit heman (walker)"
+    "outfit heman"
    ],
    "replaces": [],
    "description": "",
@@ -971,7 +971,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit icespice (holly)"
+    "outfit icespice"
    ],
    "replaces": [],
    "description": "",
@@ -991,7 +991,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit iconickimkardashian (holly)"
+    "outfit iconickimkardashian"
    ],
    "replaces": [],
    "description": "",
@@ -1011,7 +1011,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ironman (walker)"
+    "outfit ironman"
    ],
    "replaces": [],
    "description": "",
@@ -1031,7 +1031,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit isaacclarke (walker)"
+    "outfit isaacclarke"
    ],
    "replaces": [],
    "description": "",
@@ -1051,7 +1051,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit jameshetfield (walker)"
+    "outfit jameshetfield"
    ],
    "replaces": [],
    "description": "",
@@ -1071,7 +1071,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit johncena (walker)"
+    "outfit johncena"
    ],
    "replaces": [],
    "description": "",
@@ -1091,7 +1091,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit johnwick (walker)"
+    "outfit johnwick"
    ],
    "replaces": [],
    "description": "",
@@ -1111,7 +1111,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit kirkhammett (walker)"
+    "outfit kirkhammett"
    ],
    "replaces": [],
    "description": "",
@@ -1131,7 +1131,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit korra (holly)"
+    "outfit korra"
    ],
    "replaces": [],
    "description": "",
@@ -1151,7 +1151,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit kyloren (walker)"
+    "outfit kyloren"
    ],
    "replaces": [],
    "description": "",
@@ -1164,14 +1164,14 @@
   },
   {
    "id": "lara-croft-any",
-   "name": "Lara Croft (any cleaner)",
+   "name": "Lara Croft (Dodylectable)",
    "author": "",
    "license": "Private use",
    "version": "1",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit lara (holly)"
+    "outfit lara"
    ],
    "replaces": [],
    "description": "",
@@ -1191,7 +1191,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit laracroft (holly)"
+    "outfit laracroft"
    ],
    "replaces": [],
    "description": "",
@@ -1211,7 +1211,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit lbc93dogg (walker)"
+    "outfit lbc93dogg"
    ],
    "replaces": [],
    "description": "",
@@ -1231,7 +1231,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit leon (walker)"
+    "outfit leon"
    ],
    "replaces": [],
    "description": "",
@@ -1251,7 +1251,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit leonardo (walker)"
+    "outfit leonardo"
    ],
    "replaces": [],
    "description": "",
@@ -1271,7 +1271,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit louis (walker)"
+    "outfit louis"
    ],
    "replaces": [],
    "description": "",
@@ -1291,7 +1291,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit lovergirloliviarodrigo (holly)"
+    "outfit lovergirloliviarodrigo"
    ],
    "replaces": [],
    "description": "",
@@ -1311,7 +1311,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit macewindu (walker)"
+    "outfit macewindu"
    ],
    "replaces": [],
    "description": "",
@@ -1331,7 +1331,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarrior (walker)"
+    "outfit mandalorianwarrior"
    ],
    "replaces": [],
    "description": "",
@@ -1351,7 +1351,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorhonor (walker)"
+    "outfit mandalorianwarriorhonor"
    ],
    "replaces": [],
    "description": "",
@@ -1371,7 +1371,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorhonorgreen (walker)"
+    "outfit mandalorianwarriorhonorgreen"
    ],
    "replaces": [],
    "description": "",
@@ -1391,7 +1391,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorhonoryellow (walker)"
+    "outfit mandalorianwarriorhonoryellow"
    ],
    "replaces": [],
    "description": "",
@@ -1411,7 +1411,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorloyalty (walker)"
+    "outfit mandalorianwarriorloyalty"
    ],
    "replaces": [],
    "description": "",
@@ -1431,7 +1431,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorloyaltyblue (walker)"
+    "outfit mandalorianwarriorloyaltyblue"
    ],
    "replaces": [],
    "description": "",
@@ -1451,7 +1451,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mandalorianwarriorloyaltygold (walker)"
+    "outfit mandalorianwarriorloyaltygold"
    ],
    "replaces": [],
    "description": "",
@@ -1471,7 +1471,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mando (hoffman)"
+    "outfit mando"
    ],
    "replaces": [],
    "description": "",
@@ -1491,7 +1491,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit marcusfenix (walker)"
+    "outfit marcusfenix"
    ],
    "replaces": [],
    "description": "",
@@ -1511,7 +1511,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mariahcarey (holly)"
+    "outfit mariahcarey"
    ],
    "replaces": [],
    "description": "",
@@ -1531,7 +1531,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit marigold (holly)"
+    "outfit marigold"
    ],
    "replaces": [],
    "description": "",
@@ -1551,7 +1551,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit maryjanewatson (holly)"
+    "outfit maryjanewatson"
    ],
    "replaces": [],
    "description": "",
@@ -1571,7 +1571,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit messi (walker)"
+    "outfit messi"
    ],
    "replaces": [],
    "description": "",
@@ -1591,7 +1591,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit motherofthornsdoja (holly)"
+    "outfit motherofthornsdoja"
    ],
    "replaces": [],
    "description": "",
@@ -1611,7 +1611,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit mrsincredible (holly)"
+    "outfit mrsincredible"
    ],
    "replaces": [],
    "description": "",
@@ -1631,7 +1631,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit nathandrake (walker)"
+    "outfit nathandrake"
    ],
    "replaces": [],
    "description": "",
@@ -1651,7 +1651,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit nick (jim)"
+    "outfit nick"
    ],
    "replaces": [],
    "description": "",
@@ -1671,7 +1671,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit psylocke (mom)"
+    "outfit psylocke"
    ],
    "replaces": [],
    "description": "",
@@ -1691,7 +1691,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit raiden (walker)"
+    "outfit raiden"
    ],
    "replaces": [],
    "description": "",
@@ -1711,7 +1711,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rapprincessicespice (holly)"
+    "outfit rapprincessicespice"
    ],
    "replaces": [],
    "description": "",
@@ -1731,7 +1731,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit redwayruby (holly)"
+    "outfit redwayruby"
    ],
    "replaces": [],
    "description": "",
@@ -1751,7 +1751,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rey (holly)"
+    "outfit rey"
    ],
    "replaces": [],
    "description": "",
@@ -1771,7 +1771,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rickgrimes (walker)"
+    "outfit rickgrimes"
    ],
    "replaces": [],
    "description": "",
@@ -1791,7 +1791,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit roan (doc)"
+    "outfit roan"
    ],
    "replaces": [],
    "description": "",
@@ -1811,7 +1811,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rochelle (karlee)"
+    "outfit rochelle"
    ],
    "replaces": [],
    "description": "",
@@ -1831,7 +1831,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rogue (holly)"
+    "outfit rogue"
    ],
    "replaces": [],
    "description": "",
@@ -1851,7 +1851,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rumi (holly)"
+    "outfit rumi"
    ],
    "replaces": [],
    "description": "",
@@ -1871,7 +1871,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit ryu (walker)"
+    "outfit ryu"
    ],
    "replaces": [],
    "description": "",
@@ -1891,7 +1891,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit sabrinacarpenter (holly)"
+    "outfit sabrinacarpenter"
    ],
    "replaces": [],
    "description": "",
@@ -1911,7 +1911,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit santabrina (holly)"
+    "outfit santabrina"
    ],
    "replaces": [],
    "description": "",
@@ -1931,7 +1931,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit santasuitmariah (holly)"
+    "outfit santasuitmariah"
    ],
    "replaces": [],
    "description": "",
@@ -1951,7 +1951,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit scifi (walker)"
+    "outfit scifi"
    ],
    "replaces": [],
    "description": "",
@@ -1971,7 +1971,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit scorpionmk3 (walker)"
+    "outfit scorpionmk3"
    ],
    "replaces": [],
    "description": "",
@@ -1991,7 +1991,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit shuri (holly)"
+    "outfit shuri"
    ],
    "replaces": [],
    "description": "",
@@ -2011,7 +2011,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit snakeeyes (walker)"
+    "outfit snakeeyes"
    ],
    "replaces": [],
    "description": "",
@@ -2031,7 +2031,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit sofia (holly)"
+    "outfit sofia"
    ],
    "replaces": [],
    "description": "",
@@ -2051,7 +2051,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit solidsnake (walker)"
+    "outfit solidsnake"
    ],
    "replaces": [],
    "description": "",
@@ -2071,7 +2071,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit souroliviarodrigo (holly)"
+    "outfit souroliviarodrigo"
    ],
    "replaces": [],
    "description": "",
@@ -2091,7 +2091,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit spidergwen (holly)"
+    "outfit spidergwen"
    ],
    "replaces": [],
    "description": "",
@@ -2111,7 +2111,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit spidermanmilesmorales (walker)"
+    "outfit spidermanmilesmorales"
    ],
    "replaces": [],
    "description": "",
@@ -2131,7 +2131,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit spidey (walker)"
+    "outfit spidey"
    ],
    "replaces": [],
    "description": "",
@@ -2151,7 +2151,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit stormtroopersamurai (walker)"
+    "outfit stormtroopersamurai"
    ],
    "replaces": [],
    "description": "",
@@ -2171,7 +2171,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit thepunisher (walker)"
+    "outfit thepunisher"
    ],
    "replaces": [],
    "description": "",
@@ -2191,7 +2191,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit tourreadysabrinacarpenter (holly)"
+    "outfit tourreadysabrinacarpenter"
    ],
    "replaces": [],
    "description": "",
@@ -2211,7 +2211,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit tracer (holly)"
+    "outfit tracer"
    ],
    "replaces": [],
    "description": "",
@@ -2231,7 +2231,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit travisscott (walker)"
+    "outfit travisscott"
    ],
    "replaces": [],
    "description": "",
@@ -2251,7 +2251,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit trooper (walker)"
+    "outfit trooper"
    ],
    "replaces": [],
    "description": "",
@@ -2271,7 +2271,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit undertaker (walker)"
+    "outfit undertaker"
    ],
    "replaces": [],
    "description": "",
@@ -2291,7 +2291,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit undertaker_ring (walker)"
+    "outfit undertaker_ring"
    ],
    "replaces": [],
    "description": "",
@@ -2311,7 +2311,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit v (holly)"
+    "outfit v"
    ],
    "replaces": [],
    "description": "",
@@ -2331,7 +2331,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit warmachine (walker)"
+    "outfit warmachine"
    ],
    "replaces": [],
    "description": "",
@@ -2351,7 +2351,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit wookieeteamleader (holly)"
+    "outfit wookieeteamleader"
    ],
    "replaces": [],
    "description": "",
@@ -2371,7 +2371,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit yenneferofvengerberg (holly)"
+    "outfit yenneferofvengerberg"
    ],
    "replaces": [],
    "description": "",
@@ -2391,7 +2391,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit zoey (holly)"
+    "outfit zoey"
    ],
    "replaces": [],
    "description": "",
@@ -2411,7 +2411,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit zoeyl4d (holly)"
+    "outfit zoeyl4d"
    ],
    "replaces": [],
    "description": "",
@@ -2431,10 +2431,10 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit adawong (karlee)"
+    "outfit adawong"
    ],
    "replaces": [],
-   "description": "Based on \"Ada remake 4\" (https://sketchfab.com/3d-models/ada-remake-4-fd381890e4574ed8a3e7f523e66351b0) by rogeriofsalves1, licensed under CC-BY-4.0.",
+   "description": "Model \"Ada remake 4\" by rogeriofsalves1 (Sketchfab), CC BY 4.0.",
    "size": 78566240,
    "sha256": "3326a7005820435d7be2eb27b6ec9945f32ed381dbfe9518aa61c1950a3dd1ba",
    "content_id": "2cea10ca050f84b619f6dc71049a809e96e64e1d",
@@ -2451,7 +2451,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rangerblue (walker)"
+    "outfit rangerblue"
    ],
    "replaces": [],
    "description": "",
@@ -2471,7 +2471,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rangergreen (evangelo)"
+    "outfit rangergreen"
    ],
    "replaces": [],
    "description": "",
@@ -2491,7 +2491,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rangerpink (holly)"
+    "outfit rangerpink"
    ],
    "replaces": [],
    "description": "",
@@ -2511,7 +2511,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rangeryellow (doc)"
+    "outfit rangeryellow"
    ],
    "replaces": [],
    "description": "",
@@ -2531,7 +2531,7 @@
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
-    "outfit rangerwhite (jim)"
+    "outfit rangerwhite"
    ],
    "replaces": [],
    "description": "",
