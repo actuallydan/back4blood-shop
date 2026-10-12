@@ -666,13 +666,6 @@
    "thumb": "sabrinacarpenter.jpg"
   },
   {
-   "id": "sakura",
-   "version": "1",
-   "license": "Private use",
-   "name": "Sakura",
-   "thumb": "sakura.jpg"
-  },
-  {
    "id": "santabrina",
    "version": "1",
    "license": "Private use",
@@ -736,13 +729,6 @@
    "thumb": "souroliviarodrigo.jpg"
   },
   {
-   "id": "spacefarerarianagrande",
-   "version": "1",
-   "license": "Private use",
-   "name": "Spacefarer Ariana Grande",
-   "thumb": "spacefarerarianagrande.jpg"
-  },
-  {
    "id": "spidergwen",
    "version": "1",
    "license": "Private use",
@@ -755,13 +741,6 @@
    "license": "Private use",
    "name": "Spider-Man (Miles Morales)",
    "thumb": "spidermanmilesmorales.jpg"
-  },
-  {
-   "id": "spidermannoir",
-   "version": "1",
-   "license": "Private use",
-   "name": "Spider-Man Noir",
-   "thumb": "spidermannoir.jpg"
   },
   {
    "id": "spidey",
