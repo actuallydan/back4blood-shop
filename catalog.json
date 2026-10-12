@@ -1203,26 +1203,6 @@
    "thumb_sha256": "8f540a41b682652db03be44964ae3cffa9d96626fe805f8e5157b9d70416bf4f"
   },
   {
-   "id": "laufey",
-   "name": "Laufey",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit laufey (holly)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 41845036,
-   "sha256": "753e50098108f3deb18af4dd3ff37d1a6190d2835bc792a94943ab4987d90d7c",
-   "content_id": "35ebe481b952c1a44ca28ad96a6d0b2269ed1d45",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/laufey-v1/laufey.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/laufey.jpg",
-   "thumb_sha256": "73b3f871f0f4494b090ec0834e9076033d863e0fb50a1014bba06eecaf585b49"
-  },
-  {
    "id": "lbc93dogg",
    "name": "LBC '93 Dogg",
    "author": "",
@@ -1923,26 +1903,6 @@
    "thumb_sha256": "c1c7eb4408984d229ef21608bbf0b5c5574d6cc9e7e8373daada40e6f5d82810"
   },
   {
-   "id": "sakura",
-   "name": "Sakura",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit sakura (holly)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 31882543,
-   "sha256": "8dea6687ddbbb709a1855bbe1d79e2c933c04353ce1222348ce73def05b20f7b",
-   "content_id": "33c1dd5a41bd83325bb296b388c524cdd23d4ce2",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/sakura-v1/sakura.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/sakura.jpg",
-   "thumb_sha256": "4723b731ff37ece0332f36957b28631b125d88de6dd5d79513ffb5982c745965"
-  },
-  {
    "id": "santabrina",
    "name": "Santa 'Brina",
    "author": "",
@@ -2123,26 +2083,6 @@
    "thumb_sha256": "cdbc1d3f97800e8736aade942f99b13d927d86e31e37df11f029e4991093e1f0"
   },
   {
-   "id": "spacefarerarianagrande",
-   "name": "Spacefarer Ariana Grande",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit spacefarerarianagrande (holly)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 42371130,
-   "sha256": "51c342f5efc6929ddb850b5a5745ebe5eae5f46232fd35efc814fed6da0a7a98",
-   "content_id": "193ee8ecc9f4090a43cc3529dcc3dde2748908f8",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spacefarerarianagrande-v1/spacefarerarianagrande.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spacefarerarianagrande.jpg",
-   "thumb_sha256": "09ddb57ffcfcc3e86356d8d51d9dd9bfabd1844d8d14ed8f4be9f7b47ef27169"
-  },
-  {
    "id": "spidergwen",
    "name": "Spider-Gwen",
    "author": "",
@@ -2181,26 +2121,6 @@
    "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidermanmilesmorales-v1/spidermanmilesmorales.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidermanmilesmorales.jpg",
    "thumb_sha256": "d46c5b844a3ea7cde8a66f47c7cff5a61e8bcd57e6d434a526097b571ebf68b9"
-  },
-  {
-   "id": "spidermannoir",
-   "name": "Spider-Man Noir",
-   "author": "",
-   "license": "Private use",
-   "version": "1",
-   "class": "cosmetic",
-   "kinds": "textures, materials, meshes",
-   "adds": [
-    "outfit spidermannoir (walker)"
-   ],
-   "replaces": [],
-   "description": "",
-   "size": 42876731,
-   "sha256": "43e963b45f113a2cc83487318697dccbf9c76749ecbca98626b16d859d66ea49",
-   "content_id": "2bb2a39a3ffbc60e5969b69ea4cbdf34f917a23a",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/spidermannoir-v1/spidermannoir.pak",
-   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/spidermannoir.jpg",
-   "thumb_sha256": "6aa67743e32afaaf1fe0b2a7159910d6b5d5a6879cca2f8f246d2d4c4068acb8"
   },
   {
    "id": "spidey",
