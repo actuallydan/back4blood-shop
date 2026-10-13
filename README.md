@@ -1,16 +1,26 @@
 # back4blood-shop
 
 Free add-ons for [b4bcoop](https://github.com/actuallydan/b4b-coop), the unofficial private co-op mod for Back 4
-Blood. This repository holds the signed add-on list that b4bcoop's **Browse** tab shows, and the add-ons themselves
-(one GitHub release each).
+Blood: new outfits and weapon looks you can add from inside the game. This repository holds the signed add-on list
+that b4bcoop's **Add-ons** tab shows, and the add-ons themselves (one GitHub release each).
 
 Each add-on is listed with its license. Many are fan conversions marked "Private use": shared for free between friends, not for sale or redistribution.
 
 ## For players
 
-You don't need to do anything here. In b4bcoop 0.8 or newer, open the `~` window, go to the **Browse** tab and click
-**Get the add-on list**. **Add** downloads an add-on into your `b4bcoop-addons` folder. **Remove** and **Update**
-are there too. Nothing is downloaded until you click, and other players never learn which add-ons you have.
+You don't need to do anything here. In the game:
+
+1. Press **`~`** (the key left of `1`) to open the b4bcoop window, and click the **Add-ons** tab. The list loads by
+   itself the first time you reach Fort Hope after starting the game (**Refresh** gets it again).
+2. Click **Add** next to an add-on. Most are ready at once, no restart needed.
+3. **Wear** puts on an outfit (in Fort Hope it opens the game's customization screen with the outfit on; any survivor
+   can wear it). **Use** puts a weapon look on your weapon, **Stop** takes it off.
+4. **Update** gets a newer version, **Remove** takes an add-on out again.
+
+Add-ons are only downloaded when you click **Add** or **Update**. Other players never learn which add-ons you have:
+friends with the same add-on see your outfit, everyone else sees your normal survivor. This is b4bcoop 0.9.7 and newer;
+0.8 to 0.9.6 have the shop in a **Browse** tab (**Get the add-on list** first). Update b4bcoop from the `~` window's
+**Updates** tab.
 
 The mod checks every list against the shop's signature (a key built into b4bcoop) and every download against the
 size and SHA-256 in that list. A list or file that doesn't match is not used.
@@ -20,12 +30,13 @@ size and SHA-256 in that list. A list or file that doesn't match is not used.
 1. Build your add-on with the b4bcoop modkit (`b4bmod pack`). The result is one `.pak` file with a
    `b4bcoop-addoninfo.txt` inside (title, author, version, description).
 2. Open a pull request that adds your entry to `entries.json`, plus an optional thumbnail in `thumbs/` (PNG or JPEG,
-   at most 1 MB, it is shown at 96x96):
+   at most 1 MB; shown small in the list and up to 320x320 when a player hovers it, so a square picture of at least
+   320x320 looks best):
    ```json
    {"addons": [
      {"id": "casual_joe", "version": "1.0", "license": "CC0-1.0",
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "author": "Your name", "name": "Casual Joe", "description": "A relaxed outfit for Mom.",
+      "author": "Your name", "name": "Casual Joe", "description": "A relaxed outfit, for any survivor.",
       "thumb": "casual_joe.png", "min_b4bcoop": "0.8.0"}
    ]}
    ```
@@ -38,7 +49,7 @@ size and SHA-256 in that list. A list or file that doesn't match is not used.
    of it comes from.
 4. A maintainer reviews it. If it is accepted, the maintainer publishes a release `<id>-v<version>` in this repository
    with `<id>.pak` as its asset, then merges your pull request. The catalog workflow builds and signs the list, and
-   the add-on shows up in the Browse tab.
+   the add-on shows up in the game's Add-ons tab.
 
 Updating: bump `version` in a new pull request. The new file is published as a new release `<id>-v<version>`.
 
