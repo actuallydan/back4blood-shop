@@ -1,6 +1,6 @@
 {
  "b4bcoop-shop": 1,
- "updated": "2026-10-12",
+ "updated": "2026-10-15",
  "addons": [
   {
    "id": "2b-any",
@@ -227,7 +227,7 @@
    "name": "Ash Williams",
    "author": "",
    "license": "Private use",
-   "version": "1",
+   "version": "2",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
@@ -235,10 +235,10 @@
    ],
    "replaces": [],
    "description": "",
-   "size": 199132981,
-   "sha256": "df2fd33709fe58be9a9f7c563854698b33fd864f81d195ddb74c16d7d514093d",
-   "content_id": "247f9a57f1eaa08cf3f7ef128be288410891ae5a",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ash-williams-any-v1/ash-williams-any.pak",
+   "size": 199223294,
+   "sha256": "e97d445e386e5a3cacb1d952d0ce41e61f76d99b447aa23afb826cfd5b4941e8",
+   "content_id": "ca109af645c47dc50e2e023dec9dcae45d772af3",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/ash-williams-any-v2/ash-williams-any.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/ash-williams-any.jpg",
    "thumb_sha256": "1a53039945209e983d10270b1e0fcdbea7bbbccbf6826385e2d822710818de7b"
   },
@@ -727,7 +727,7 @@
    "name": "Frank West",
    "author": "",
    "license": "Private use",
-   "version": "1",
+   "version": "2",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
@@ -735,10 +735,10 @@
    ],
    "replaces": [],
    "description": "",
-   "size": 756161761,
-   "sha256": "913a908c7aadd0f5fdbd3f40e8c89bbac27c1f3916ddd25b3d5b63dd5e9076d0",
-   "content_id": "6dc4cf6e3a0ff64605bd2c4e23649b871438edca",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/frank-west-any-v1/frank-west-any.pak",
+   "size": 756514215,
+   "sha256": "dd9846686e686e620b66b11bf3560ec408e1179f5017427eb93c2741033ea027",
+   "content_id": "d0af22d93c8f01c52304b3905b24c86fd56ca821",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/frank-west-any-v2/frank-west-any.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/frank-west-any.jpg",
    "thumb_sha256": "846338882ac6deac762d65031fbd2185e7b05a4f442d3f41ce8959c45faa97c4"
   },
@@ -1167,7 +1167,7 @@
    "name": "Lara Croft (Dodylectable)",
    "author": "",
    "license": "Private use",
-   "version": "1",
+   "version": "2",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
@@ -1175,10 +1175,10 @@
    ],
    "replaces": [],
    "description": "",
-   "size": 181473221,
-   "sha256": "e5bc2cf152302a96bba590f0be63f05857bb1ecd2ff25c2458f378166fc7bf51",
-   "content_id": "6ada65588942c73529979b2ba7dd9c91464eb9e3",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/lara-croft-any-v1/lara-croft-any.pak",
+   "size": 181563678,
+   "sha256": "2fefebe8f99594dbef580c2c65ee081edcdb9ca56ad342779272dd7129c0f816",
+   "content_id": "7c538f98d58b4de1c111e39c29a7d39179f3caf0",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/lara-croft-any-v2/lara-croft-any.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/lara-croft-any.jpg",
    "thumb_sha256": "b947e7487f1f1df216e7880d2031efd4ee39d430cca9d3e8de1e655db4c5bde6"
   },
@@ -2427,7 +2427,7 @@
    "name": "Ada Wong",
    "author": "rogeriofsalves1 (Sketchfab)",
    "license": "Private use",
-   "version": "2",
+   "version": "3",
    "class": "cosmetic",
    "kinds": "textures, materials, meshes",
    "adds": [
@@ -2435,10 +2435,10 @@
    ],
    "replaces": [],
    "description": "Model \"Ada remake 4\" by rogeriofsalves1 (Sketchfab), CC BY 4.0.",
-   "size": 75401832,
-   "sha256": "d61d429e5383c72f8950ee68ddfb2e2c335361e71e18577676bcfa45175e951c",
-   "content_id": "d4388ef196dca5ed9e4c7f31ab36cd2f024cf27d",
-   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/adawong-v2/adawong.pak",
+   "size": 75908988,
+   "sha256": "3bd07767bccd852b0ed2d99895cc8dc32337fffa7f0563266e78ad5b68f6a7f6",
+   "content_id": "1c8f8c5c11c0ab7841b4edaa98aeaa16375e5577",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/adawong-v3/adawong.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/adawong.jpg",
    "thumb_sha256": "6e13600a3de6f482e0594ea44db29f9856dd5754040d82cf57ac552efcf5c7f8"
   },
