@@ -1,6 +1,6 @@
 {
  "b4bcoop-shop": 1,
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "addons": [
   {
    "id": "2b-any",
@@ -2541,6 +2541,106 @@
    "url": "https://github.com/actuallydan/back4blood-shop/releases/download/rangerwhite-v1/rangerwhite.pak",
    "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/rangerwhite.jpg",
    "thumb_sha256": "9f34f9ade2e870e6f27dd68b8ed23b9ea24d871c6988eb056f250bf34e9da02e"
+  },
+  {
+   "id": "samus-zero-suit",
+   "name": "Samus",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit samus_zero_suit"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 26169796,
+   "sha256": "c1ccb11a293d6da3f2ef0b71c9c5d70eae2d98a64a44534720dc71baab4defd4",
+   "content_id": "5c4922714f8c35d2e6f3b68b575e2ca37963d9e9",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/samus-zero-suit-v1/samus-zero-suit.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/samus-zero-suit.jpg",
+   "thumb_sha256": "64a0f2c655de42d40f3bbee603e2560c483b99881d2f1ac96d0861a0ecbae5d7"
+  },
+  {
+   "id": "cloud-strife",
+   "name": "Cloud Strife",
+   "author": "雨宮レン / oscar3dmodel (Sketchfab)",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit cloud_strife"
+   ],
+   "replaces": [],
+   "description": "Based on \"Cloud Strife (Remake Intergrade)\" (https://sketchfab.com/3d-models/cloud-strife-remake-intergrade-46b48cee305740de8d05bddf7e919451) by 雨宮レン (https://sketchfab.com/oscar3dmodel), licensed under CC-BY-4.0.",
+   "size": 44619429,
+   "sha256": "fc84825f330b39e6454fc3b18b9d7cd1124ed70c744e961c88bd3d4b995b12be",
+   "content_id": "3a07e4ee15b825e2727571a6ce2568b1a51a2ef7",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/cloud-strife-v1/cloud-strife.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/cloud-strife.jpg",
+   "thumb_sha256": "6987a8457b5e9d7ab41c21a0127fc76c41ce6df10cbd0d06c6910f5d0e74cc63"
+  },
+  {
+   "id": "zelda-twilight-princess",
+   "name": "Zelda",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit zelda_twilight_princess"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 4396054,
+   "sha256": "33ad5e242eb0b4058803666426fae63ce80a9537b4c4152cebda2ea180a0ab6e",
+   "content_id": "cabc904aeb7ee871ff83ef16a919a28b4ba09799",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/zelda-twilight-princess-v1/zelda-twilight-princess.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/zelda-twilight-princess.jpg",
+   "thumb_sha256": "ede4321528082834b621dcc02c1f0326928283eaf69d98b5315e0bd5cbeb322e"
+  },
+  {
+   "id": "link-twilight-princess",
+   "name": "Link",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit link_twilight_princess"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 6006403,
+   "sha256": "88de23967bac3a9bb63020dac0a44f15fec3ae85d82036dde507d0efd1bd6ea5",
+   "content_id": "0fd11e788bf5bf56fb32d3cd40b46f3ed691fe77",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/link-twilight-princess-v1/link-twilight-princess.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/link-twilight-princess.jpg",
+   "thumb_sha256": "7a88534e1ed853d291d7e8807b9280856677e211a4fda474b66f133217c52cf3"
+  },
+  {
+   "id": "sheik",
+   "name": "Sheik",
+   "author": "",
+   "license": "Private use",
+   "version": "1",
+   "class": "cosmetic",
+   "kinds": "textures, materials, meshes",
+   "adds": [
+    "outfit sheik"
+   ],
+   "replaces": [],
+   "description": "",
+   "size": 9217706,
+   "sha256": "6f18999c9d9b7153742b558ddbc261b6feeb7df90be2d31190b2b16c1da59252",
+   "content_id": "f16c7905664fe4cfb30e9920620d6a90557ae107",
+   "url": "https://github.com/actuallydan/back4blood-shop/releases/download/sheik-v1/sheik.pak",
+   "thumb": "https://raw.githubusercontent.com/actuallydan/back4blood-shop/main/thumbs/sheik.jpg",
+   "thumb_sha256": "f40e59f9672bbe359f17d641b58acc1df3cc7a7a5f627bfbf415f6d80aee4a1d"
   }
  ]
 }
