@@ -890,6 +890,43 @@
    "license": "Private use",
    "name": "White Ranger",
    "thumb": "rangerwhite.jpg"
+  },
+  {
+   "id": "samus-zero-suit",
+   "version": "1",
+   "license": "Private use",
+   "name": "Samus",
+   "thumb": "samus-zero-suit.jpg"
+  },
+  {
+   "id": "cloud-strife",
+   "version": "1",
+   "license": "Private use",
+   "name": "Cloud Strife",
+   "thumb": "cloud-strife.jpg",
+   "author": "雨宮レン / oscar3dmodel (Sketchfab)",
+   "description": "Based on \"Cloud Strife (Remake Intergrade)\" (https://sketchfab.com/3d-models/cloud-strife-remake-intergrade-46b48cee305740de8d05bddf7e919451) by 雨宮レン (https://sketchfab.com/oscar3dmodel), licensed under CC-BY-4.0."
+  },
+  {
+   "id": "zelda-twilight-princess",
+   "version": "1",
+   "license": "Private use",
+   "name": "Zelda",
+   "thumb": "zelda-twilight-princess.jpg"
+  },
+  {
+   "id": "link-twilight-princess",
+   "version": "1",
+   "license": "Private use",
+   "name": "Link",
+   "thumb": "link-twilight-princess.jpg"
+  },
+  {
+   "id": "sheik",
+   "version": "1",
+   "license": "Private use",
+   "name": "Sheik",
+   "thumb": "sheik.jpg"
   }
  ]
 }
